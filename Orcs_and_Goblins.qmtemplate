@@ -1,0 +1,5955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Orcs and Goblins</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Battleaxe of the Last Waaagh!</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Basha's Axe of Stunty Smashin'</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Armour of Gork</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Lucky Shrunken Head</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Skull Wand of Kaloth</string>
+					<key>Points</key>
+					<real>75</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Mork's War Banner</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Spider Banner</string>
+					<key>Points</key>
+					<real>85</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>The Bad Moon Banner</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Wyvern</string>
+								<key>Points</key>
+								<integer>160</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Orc Crew</string>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>2 Orc Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 War Boars</string>
+											<key>Special Rules</key>
+											<string>Tusker Charge</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>85</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 4+); Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Warboss</string>
+					<key>Points</key>
+					<integer>115</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Size Matters; Waaagh!</string>
+					<key>Stats</key>
+					<string>M4•WS6•BS3•S5•T5•W3•I4•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Wyvern</string>
+								<key>Points</key>
+								<integer>160</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Warboss</string>
+					<key>Points</key>
+					<integer>150</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Frenzy; Warpaint; Size Matters; Waaagh!; Wild Abandon</string>
+					<key>Stats</key>
+					<string>M4•WS6•BS3•S5•T5•W3•I4•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>huge array of hand weapons and great weapons; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Wyvern</string>
+								<key>Points</key>
+								<integer>160</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Orc Crew</string>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>2 Orc Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 War Boars</string>
+											<key>Special Rules</key>
+											<string>Tusker Charge</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>85</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 4+); Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Black Orc Warboss</string>
+					<key>Points</key>
+					<integer>160</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Armed to da Teef; Choppas; Immune to Psychology; Quell Animosity; Waaagh!</string>
+					<key>Stats</key>
+					<string>M4•WS7•BS3•S5•T5•W3•I4•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Giant Wolf</string>
+								<key>Points</key>
+								<integer>18</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Giant Spider</string>
+								<key>Points</key>
+								<integer>22</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Creeping Assault; Fast Cavalry; Forest Strider; Obstacle Strider; Poisoned Attacks; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T3•W1•I4•A1•Ld2</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Gigantic Spider</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Monstrous Beast; Creeping Assault; Fear; Forest Strider; Obstacle Strider; Poisoned Attacksl Thick-skinned; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S4•T4•W3•I4•A3•Ld7</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Goblin Crew</string>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Goblin Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Giant Wolves</string>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Giant Wolves</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear; short bow</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 5+); Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Warboss</string>
+					<key>Points</key>
+					<integer>65</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T4•W3•I4•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Great Cave Squig</string>
+								<key>Points</key>
+								<integer>40</integer>
+								<key>Special Rules</key>
+								<string>Monstrous Beast; Extra Boingy; Immune to Psychology; Loner; Random Movement (3D6); Supreme Bounder</string>
+								<key>Stats</key>
+								<string>M3D6•WS4•BS0•S5•T4•W3•I3•A3•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Night Goblin Warboss</string>
+					<key>Points</key>
+					<integer>55</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves; Hatred (Dwarfs)</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T4•W3•I5•A4•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Big Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Wyvern</string>
+								<key>Points</key>
+								<integer>160</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Orc Crew</string>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>2 Orc Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 War Boars</string>
+											<key>Special Rules</key>
+											<string>Tusker Charge</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>85</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 4+); Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Great Shaman</string>
+					<key>Points</key>
+					<integer>165</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T5•W3•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Big Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Wyvern</string>
+								<key>Points</key>
+								<integer>160</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Great Shaman</string>
+					<key>Points</key>
+					<integer>170</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Frenzy; Size Matters; Warpaint</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T5•W3•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Little Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Giant Wolf</string>
+								<key>Points</key>
+								<integer>18</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Goblin Crew</string>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Goblin Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Giant Wolves</string>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Giant Wolves</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear; short bow</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 5+); Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Arachnarok Spider</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>8 Forest Goblin Crew</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>flinger</string>
+											<key>Points</key>
+											<integer>30</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>Catchweb Spidershrine</string>
+											<key>Points</key>
+											<integer>40</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>290</integer>
+								<key>Special Rules</key>
+								<string>Monster; Forest Strider; Howdah Crew; Immune to Psychology; Large Target; Natural Armour (4+); Obstacle Strider; Poisoned Attacks; Stubborn; Swiftstride; Terror; Venom Surge; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS4•BS-•S5•T6•W8•I4•A8•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Great Shaman</string>
+					<key>Points</key>
+					<integer>145</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T4•W3•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; Magic Mushrooms</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Little Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Night Goblin Great Shaman</string>
+					<key>Points</key>
+					<integer>140</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves; Hatred (Dwarfs)</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T4•W3•I3•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Morglor the Mangler; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Gnarla (War Boar)</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S4•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Gorbad Ironclaw</string>
+					<key>Points</key>
+					<integer>375</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Choppas; Da Boss 'as a Plan!; Da Great Leader; Orcs are da Best; Size Matters; Waaagh!</string>
+					<key>Stats</key>
+					<string>M4•WS7•BS3•S5•T5•W3•I5•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Slagga's Slashas; Azhag's 'Ard Armour; The Crown of Sorcery</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skullmuncha (Wyvern)</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Poisoned Attacks; Scaly Skin (4+); Terror</string>
+								<key>Stats</key>
+								<string>M4•WS5•BS0•S6•T5•W5•I3•A3•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Azhag the Slaughterer</string>
+					<key>Points</key>
+					<integer>550</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Get on Wiv it!; Size Matters; Waaagh!</string>
+					<key>Stats</key>
+					<string>M4•WS7•BS3•S5•T5•W3•I5•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Gitsnik; Blood-Forged Armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Grimgor Ironhide</string>
+					<key>Points</key>
+					<integer>355</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Da Immortulz</string>
+					</array>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Da Immortulz; Hatred; Immune to Psychology; Waaagh!</string>
+					<key>Stats</key>
+					<string>M4•WS8•BS1•S5•T5•W3•I5•A5•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Bonewood Staff (hand weapon); Baleful Mask; Squiggly Beast</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard; Spells of da Big Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>24</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Wurrzag da Great Green Prophet</string>
+					<key>Points</key>
+					<integer>350</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Frenzy; Warpaint of Wurrzag</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T5•W3•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Axe of Grom; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Grom's Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Niblet</string>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>3 Giant Wolves</string>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 5+)</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Grom the Paunch of Misty Mountain</string>
+					<key>Points</key>
+					<integer>285</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eats Elves for Breakfast; Grom's Waaagh!; Regeneration</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T4•W3•I4•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Gobbla</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Killing Blow</string>
+								<key>Stats</key>
+								<string>M-•WS5•BS-•S6•T-•W-•I4•A4•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skarsnik's Prodder; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Skarsnik, Warlord of the Eight Peaks</string>
+					<key>Points</key>
+					<integer>275</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves; Hatred (Dwarfs); Sneaky Schemes; Tricky Traps</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T4•W6•I5•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Orc Crew</string>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>2 Orc Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 War Boars</string>
+											<key>Special Rules</key>
+											<string>Tusker Charge</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>85</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 4+); Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Big Boss</string>
+					<key>Points</key>
+					<integer>55</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T5•W2•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Big Boss</string>
+					<key>Points</key>
+					<integer>75</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Frenzy; Warpaint; Size Matters; Wild Abandon</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T5•W2•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>huge array of hand weapons and great weapons; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Orc Crew</string>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>2 Orc Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Choppas; Size Matters</string>
+											<key>Stats</key>
+											<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 War Boars</string>
+											<key>Special Rules</key>
+											<string>Tusker Charge</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>85</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 4+); Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Black Orc Big Boss</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Armed to da Teef; Choppas; Immune to Psychology; Quell Animosity</string>
+					<key>Stats</key>
+					<string>M4•WS6•BS3•S4•T5•W2•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>short bow</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Giant Wolf</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Giant Spider</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Creeping Assault; Fast Cavalry; Forest Strider; Obstacle Strider; Poisoned Attacks; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T3•W1•I4•A1•Ld2</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Gigantic Spider</string>
+								<key>Points</key>
+								<integer>40</integer>
+								<key>Special Rules</key>
+								<string>Monstrous Beast; Creeping Assault; Fear; Forest Strider; Obstacle Strider; Poisoned Attacksl Thick-skinned; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S4•T4•W3•I4•A3•Ld7</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Goblin Crew</string>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Goblin Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Giant Wolves</string>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Giant Wolves</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear; short bow</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 5+); Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Big Boss</string>
+					<key>Points</key>
+					<integer>35</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W2•I3•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Mount</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>short bow</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Great Cave Squig</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Monstrous Beast; Extra Boingy; Immune to Psychology; Loner; Random Movement (3D6); Supreme Bounder</string>
+								<key>Stats</key>
+								<string>M3D6•WS4•BS0•S5•T4•W3•I3•A3•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Night Goblin Big Boss</string>
+					<key>Points</key>
+					<integer>30</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves; Hatred (Dwarfs)</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W2•I4•A3•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Big Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Shaman</string>
+					<key>Points</key>
+					<integer>65</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W2•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Big Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>War Boar</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Shaman</string>
+					<key>Points</key>
+					<integer>70</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Choppas; Frenzy; Size Matters; Warpaint</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W2•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Little Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Giant Wolf</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Goblin Crew</string>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Goblin Crew</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Special Rules</key>
+											<string>Fear Elves</string>
+											<key>Stats</key>
+											<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Giant Wolves</string>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>3 Giant Wolves</string>
+											<key>Points</key>
+											<integer>5</integer>
+											<key>Stats</key>
+											<string>M9•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>scythed wheels; hand weapon; spear; short bow</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Chariot (Armour Save 5+); Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Shaman</string>
+					<key>Points</key>
+					<real>55</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W2•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; Magic Mushrooms</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spells of da Little Waaagh!</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Night Goblin Shaman</string>
+					<key>Points</key>
+					<real>50</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fear Elves; Hatred (Dwarfs)</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W2•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Bone Bow; Stinky Pelt; spear</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Ulda the Great Wolf</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A2•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Gitilla da Hunter</string>
+					<key>Points</key>
+					<integer>110</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Da Howlerz</string>
+					</array>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Da Howlerz; Fast Cavalry; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS4•S4•T4•W2•I4•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Sting of Snagla</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Fangspike</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Giant Spider</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Special Rules</key>
+								<string>Creeping Assault; Fast Cavalry; Forest Strider; Obstacle Strider; Poisoned Attacks; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T3•W1•I4•A1•Ld2</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Snagla Grobspit</string>
+					<key>Points</key>
+					<integer>115</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Deff Creepers</string>
+					</array>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Deff Creepers; Fast Cavalry; Fear Elves; Hatred (Empire)</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W2•I4•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Orc Boyz</string>
+					<key>Points</key>
+					<integer>6</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Orc Big 'Uns</string>
+					<key>Points</key>
+					<integer>8</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Arrer Boy Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS3•BS4•S4•T4•W1•I2•A1•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; bows; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Orc Arrer Boyz</string>
+					<key>Points</key>
+					<integer>7</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Choppas; Size Matters</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Savage Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>1</integer>
+								<key>Name</key>
+								<string>Big Stabbas</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Savage Orcs</string>
+					<key>Points</key>
+					<integer>8</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Choppas; Frenzy; Size Matters; Warpaint</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Savage Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>1</integer>
+								<key>Name</key>
+								<string>Big Stabbas</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Savage Orc Big 'Uns</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Choppas; Frenzy; Size Matters; Warpaint</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>two hand weapons; light armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>3</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Nasty Skulkers</string>
+							<key>Points</key>
+							<integer>10</integer>
+							<key>Singular Name</key>
+							<string>Nasty Skulker</string>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Always Strikes First; Animosity; Armour Piercing; Fear Elves; Concealed; Surprise!</string>
+							<key>Stats</key>
+							<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Goblins</string>
+					<key>Points</key>
+					<integer>3</integer>
+					<key>Size</key>
+					<integer>20</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Rider Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Giant Wolves</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Wolf Riders</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Fast Cavalry; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>iron ball</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>3</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Fanatics</string>
+							<key>Points</key>
+							<integer>25</integer>
+							<key>Singular Name</key>
+							<string>Fanatic</string>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Immune to Psychology; Random Movement (2D6); Hide in Units; Release the Fanatics!; Splat!; Force of Destruction; Out of Control</string>
+							<key>Stats</key>
+							<string>M2D6•WS-•BS-•S5•T3•W1•I3•A*•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Night Goblin Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>shields; spears</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>1</integer>
+								<key>Name</key>
+								<string>Netters</string>
+								<key>Points</key>
+								<integer>45</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Night Goblins</string>
+					<key>Points</key>
+					<integer>3</integer>
+					<key>Size</key>
+					<integer>20</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Fear Elves; Hatred (Dwarfs)</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Spider Rider Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>shields; spears</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Giant Spiders</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Creeping Assault; Fast Cavalry; Forest Strider; Obstacle Strider; Poisoned Attacks; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T3•W1•I4•A1•Ld2</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Forest Goblin Spider Riders</string>
+					<key>Points</key>
+					<integer>13</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Fast Cavalry; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Goblin Wolf Rider Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Giant Wolves</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Fast Cavalry</string>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Da Howlerz</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Gitilla da Hunter</string>
+					</array>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Da Howlerz; Fast Cavalry; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Spider Rider Boss</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A2•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>shields; spears</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>short bows</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Giant Spiders</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Creeping Assault; Fast Cavalry; Forest Strider; Obstacle Strider; Poisoned Attacks; Wall-crawler</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T3•W1•I4•A1•Ld2</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Deff Creepers</string>
+					<key>Points</key>
+					<integer>13</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Snagla Grobspit</string>
+					</array>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Deff Creepers; Fast Cavalry; Fear Elves</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Black Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS5•BS3•S4•T4•W1•I2•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>heavy armour; huge arrays of weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Black Orcs</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Armed to da Teef; Choppas; Immune to Psychology</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Boy Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>War Boars</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Boar Boyz</string>
+					<key>Points</key>
+					<integer>16</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Animosity; Choppas; Size Matters; Thick-skinned</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Boar Boy Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S3•T3•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>War Boars</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Boar Boy Big 'Uns</string>
+					<key>Points</key>
+					<integer>20</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Animosity; Choppas; Size Matters; Thick-skinned</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Savage Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!additional hand weapons</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>War Boars</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Boar Boyz</string>
+					<key>Points</key>
+					<integer>18</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Animosity; Choppas; Frenzy; Size Matters; Thick-skinned; Warpaint; Wild Abandon</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Savage Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!additional hand weapons</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>War Boars</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>War Beast; Thick-skinned; Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S3•T4•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Savage Orc Boar Boy Big 'Uns</string>
+					<key>Points</key>
+					<real>22</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Animosity; Choppas; Frenzy; Size Matters; Thick-skinned; Warpaint; Wild Abandon</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Orc Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons; spears</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Choppas; Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>3 Orc Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons; spears</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Special Rules</key>
+								<string>Choppas; Size Matters</string>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S3•T-•W-•I2•A1•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>scythed wheels</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 War Boars</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Tusker Charge</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S3•T-•W-•I3•A1•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Orc Boar Chariot</string>
+					<key>Points</key>
+					<integer>85</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot (Armour Save 4+)</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>1</integer>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>2 Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons; spears; short bows</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>3 Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons; spears; short bows</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Special Rules</key>
+								<string>Fear Elves</string>
+								<key>Stats</key>
+								<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>scythed wheels</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>3</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>1</integer>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>2 Giant Wolves</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>3 Giant Wolves</string>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS0•S3•T3•W1•I3•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Goblin Wolf Chariot</string>
+					<key>Plural Name</key>
+					<string>Goblin Wolf Chariots</string>
+					<key>Points</key>
+					<integer>50</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot (Armour Save 5+)</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T4•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Bully</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Special Rules</key>
+								<string>Choppa; Size Matters</string>
+								<key>Stats</key>
+								<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spear Chukka</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Goblin Spear Chukka</string>
+					<key>Points</key>
+					<integer>35</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine (Bolt Thrower); Fear Elves; Slipshod</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Squigs</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Extra Boingy; Immune to Psychology; Obnoxious; Random Movement (3D6)</string>
+								<key>Stats</key>
+								<string>M3D6•WS4•BS0•S5•T3•W1•I3•A2•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Night Goblin Squig Hoppers</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Hatred (Dwarfs); Skirmishers</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S3•T3•W1•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>3</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Night Goblin Herder</string>
+								<key>Points</key>
+								<integer>3</integer>
+								<key>Special Rules</key>
+								<string>Hatred (Dwarfs)</string>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I3•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Night Goblin Squig Herd</string>
+					<key>Notes</key>
+					<string>1 Night Goblin for every 3 Cave Squigs</string>
+					<key>Plural Name</key>
+					<string>Cave Squigs</string>
+					<key>Points</key>
+					<integer>8</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Animosity; Hatred (Dwarfs); Immune to Psychology; Obnoxious; Squig Herd; Squigs Go Wild!</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS0•S5•T3•W1•I3•A2•Ld3</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Explodin' Spores; sticks, rusty knives, rocks (hand weapons)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>Snotlings</string>
+					<key>Points</key>
+					<integer>30</integer>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Swarm</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS0•S2•T2•W5•I3•A5•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>bone, club, or bit of tree (hand weapons)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Trolls</string>
+					<key>Points</key>
+					<integer>35</integer>
+					<key>Singular Name</key>
+					<string>Troll</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Regeneration; Stupidity; Troll Vomit</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S5•T4•W3•I1•A3•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Black Orc Boss</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M4•WS5•BS3•S4•T4•W1•I2•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>heavy armour; huge arrays of weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Da Immortulz</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Grimgor Ironhide</string>
+					</array>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Armed to da Teef; Choppas; Da Immortulz; Immune to Psychology</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Orc Bully</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Special Rules</key>
+								<string>Choppa; Size Matters</string>
+								<key>Stats</key>
+								<string>M4•WS3•BS3•S3•T4•W1•I2•A1•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Rock Lobber</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Goblin Rock Lobber</string>
+					<key>Points</key>
+					<integer>85</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine (Stone Thrower); Fear Elves</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Rock Lobber</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Doom Diver Catapult</string>
+					<key>Points</key>
+					<integer>80</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine (Stone Thrower); Fear Elves; Doom Diver Catapult</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Mass of Snotlings</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M-•WS2•BS0•S2•T-•W-•I3•A5•Ld4</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Explodin' Spores; crude hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spiky roller</string>
+								<key>Points</key>
+								<integer>15</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>out-rigga</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>flappas</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Giant Explodin' Spores</string>
+								<key>Points</key>
+								<integer>15</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Snotling Pump Wagon</string>
+					<key>Points</key>
+					<integer>45</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot (Armour Save 6+); Impact Hits (2D6); Random Movement (2D6); Too Pumped Up; Pump Harder Ladz!; Unbreakable; Unstable</string>
+					<key>Stats</key>
+					<string>M2D6•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>8 Forest Goblin Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>spears; short bows</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M-•WS2•BS3•S3•T-•W-•I2•A1•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Flinger</string>
+								<key>Points</key>
+								<integer>30</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Arachnarok Spider</string>
+					<key>Points</key>
+					<integer>290</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Forest Strider; Howdah Crew; Immune to Psychology; Large Target; Natural Armour (4+); Obstacle Strider; Poisoned Attacks; Stubborn; Swiftstride; Terror; Venom Surge; Wall-crawler</string>
+					<key>Stats</key>
+					<string>M7•WS4•BS-•S5•T6•W8•I4•A8•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Mangler Squigs</string>
+					<key>Points</key>
+					<integer>65</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Force of Total Destruction; Gone Crazy!; Immune to Psychology; Ker-splat!; Completely Out of Control; Random Movement (3D6); Watch Out!</string>
+					<key>Stats</key>
+					<string>M3D6•WS-•BS-•S6•T4•W3•I3•A*•Ld3</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>bone, club, or bit of tree (hand weapons)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Stone Trolls</string>
+					<key>Points</key>
+					<integer>45</integer>
+					<key>Singular Name</key>
+					<string>Stone Troll</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Regeneration; Stone Troll; Stupidity; Troll Vomit</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S5•T4•W3•I1•A3•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>bone, club, or bit of tree (hand weapons)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>River Trolls</string>
+					<key>Points</key>
+					<integer>45</integer>
+					<key>Singular Name</key>
+					<string>River Troll</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Regeneration; River Troll; Stupidity; Troll Vomit</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S5•T4•W3•I1•A3•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>tree-trunk club or other impressively large blunt implement (hand weapon)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Warpaint</string>
+								<key>Points</key>
+								<integer>20</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Savage Orc Shaman/Savage Orc Great Shaman</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Giant</string>
+					<key>Points</key>
+					<integer>200</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Large Target; Fall Over; Giant Special Attacks; Stubborn; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS3•S6•T5•W6•I3•A*•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2013-03-03T17:12:20Z</date>
+</dict>
+</plist>

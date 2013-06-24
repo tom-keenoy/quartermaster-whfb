@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Ogre Kingdoms</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Thundermace</string>
+					<key>Points</key>
+					<real>85</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Siegebreaker</string>
+					<key>Points</key>
+					<real>85</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Gut Maw</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Gnoblar Thiefstone</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Greedy Fist</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Grut's Sickle</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Hellheart</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Rock Eye</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Rune Maw</string>
+					<key>Points</key>
+					<real>60</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Dragonhide Banner</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Big Name</string>
+			<key>Icon</key>
+			<string>glyphicons_218_asterisk</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Mawseeker</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Wallcrusher</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Kineater</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Mountaineater</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Giantbreaker</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Deathcheater</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Longstrider</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Beastkiller</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Big Name</string>
+					<key>Name</key>
+					<string>Brawlerguts</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>3</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfist</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>12</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Ogre pistol</string>
+								<key>Points</key>
+								<real>8</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>brace of Ogre pistols</string>
+								<key>Points</key>
+								<real>12</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>100</real>
+							<key>Name</key>
+							<string>Magic Items and Big Names</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Tyrant</string>
+					<key>Points</key>
+					<real>210</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS6•BS4•S5•T5•W5•I4•A5•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfist</string>
+								<key>Points</key>
+								<real>3</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<real>35</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lore of the Great Maw</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Heavens</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Beasts</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>100</real>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Slaughtermaster</string>
+					<key>Points</key>
+					<real>250</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Fear; Ogre Charge; Immune to Poison</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS3•S4•T5•W5•I3•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Sceptre of the Titans; light armour; Overtyrant's Crown</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Greasus Goldtooth</string>
+					<key>Points</key>
+					<real>545</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Special Character); Everyone Has Their Price; Fear; Hoardmaster</string>
+					<key>Stats</key>
+					<string>M4•WS6•BS3•S5•T6•W6•I1•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Cauldron of the Great Maw, two hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard; Lore of the Great Maw</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Skrag the Slaughterer</string>
+					<key>Points</key>
+					<real>425</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Special Character); Frenzy; Immune to Poison; Killing Blow; Ogre Charge; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS5•BS3•S5•T6•W5•I3•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>3</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfist</string>
+								<key>Points</key>
+								<real>4</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>11</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Ogre pistol</string>
+								<key>Points</key>
+								<real>6</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>brace of Ogre pistols</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<real>4</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>battle standard</string>
+								<key>Points</key>
+								<real>25</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Lookout Gnoblar</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>-1</real>
+							<key>Name</key>
+							<string>Magic Standard</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Bruiser</string>
+					<key>Points</key>
+					<real>105</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS5•BS3•S5•T5•W4•I3•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>great throwing spear; hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>3</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfist</string>
+								<key>Points</key>
+								<real>4</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>11</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>harpoon launcher</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>blood vulture</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Stonehorn</string>
+								<key>Points</key>
+								<real>250</real>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S6•T6•W6•I2•A5•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Hunter</string>
+					<key>Points</key>
+					<real>130</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Fear; Loner; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS5•BS4•S5•T5•W4•I3•A4•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfist</string>
+								<key>Points</key>
+								<real>3</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>9</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<real>35</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lore of the Great Maw</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Heavens</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Beasts</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Butcher</string>
+					<key>Points</key>
+					<real>100</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Fear; Ogre Charge; Immune to Poison</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S4•T5•W4•I2•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>9</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<real>35</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lore of Fire</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Firebelly</string>
+					<key>Points</key>
+					<real>120</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Character); Blessings of the Volcano God; Fear; Fire Breath; Flaming Attacks; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S4•T5•W4•I2•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Command</key>
+							<array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>0.0</real>
+										<key>Maximum</key>
+										<real>1</real>
+										<key>Name</key>
+										<string>Maneater Captain</string>
+										<key>Points</key>
+										<real>10</real>
+										<key>Stats</key>
+										<string>M6•WS4•BS4•S5•T4•W3•I3•A5•Ld8</string>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>0.0</real>
+										<key>Maximum</key>
+										<real>1</real>
+										<key>Name</key>
+										<string>Bellower</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>0.0</real>
+										<key>Maximum</key>
+										<real>1</real>
+										<key>Name</key>
+										<string>standard bearer</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>0.0</real>
+										<key>Maximum</key>
+										<real>1</real>
+										<key>Name</key>
+										<string>Look-out Gnoblar</string>
+										<key>Points</key>
+										<real>5</real>
+									</dict>
+								</array>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapons</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Maximum</key>
+										<integer>-1</integer>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>2</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Name</key>
+										<string>great weapon</string>
+										<key>Points</key>
+										<real>11</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Name</key>
+										<string>single Ogre pistol</string>
+										<key>Points</key>
+										<real>7</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Name</key>
+										<string>brace of Ogre pistols</string>
+										<key>Points</key>
+										<real>12</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>light armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>heavy armour</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>50</real>
+									<key>Name</key>
+									<string>Magic Standard</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>-1</integer>
+							<key>Minimum Size</key>
+							<integer>3</integer>
+							<key>Name</key>
+							<string>Golgfag's Maneaters</string>
+							<key>Points</key>
+							<real>50</real>
+							<key>Size</key>
+							<integer>3</integer>
+							<key>Special Rules</key>
+							<string>Monstrous Infantry; Been There, Done That; Fear; Ogre Charge; Motley Crew; Stubborn; Vanguard</string>
+							<key>Stats</key>
+							<string>M6•WS4•BS4•S5•T4•W3•I3•A4•Ld8</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>two hand weapons; Ogre pistol; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Golgfag Maneater</string>
+					<key>Points</key>
+					<real>260</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Special Character); Easy Come, Easy Go; Fear; Golgfag's Maneaters; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS5•BS4•S5•T5•W4•I4•A5•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Great Gutgouger; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Bragg the Gutsman</string>
+					<key>Points</key>
+					<real>210</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry (Special Character); Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS5•BS3•S5(6)•T5•W4•I3•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Crusher</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS2•S4•T4•W3•I2•A4•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Bellower</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Look-out Gnoblar</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<real>1</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>ironfists</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Ogres</string>
+					<key>Points</key>
+					<real>30</real>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S4•T4•W3•I2•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Gutlord</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS2•S4•T4•W3•I2•A4•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Bellower</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Look-out Gnoblar</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>great weapons; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Standard</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Ironguts</string>
+					<key>Points</key>
+					<real>43</real>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S4•T4•W3•I2•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Groinbiter</string>
+								<key>Points</key>
+								<real>5</real>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S2•T3•W1•I3•A1•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; throwing weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Gnoblar Trappers</string>
+								<key>Points</key>
+								<real>25</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Gnoblars</string>
+					<key>Points</key>
+					<real>2.5</real>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Beneath Contempt</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS3•S2•T3•W1•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Thunderfist</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S4•T4•W3•I2•A4•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Bellower</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Leadbelcher guns; hand weapons; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Leadbelchers</string>
+					<key>Points</key>
+					<real>43</real>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Fear; Ogre Charge</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS3•S4•T4•W3•I2•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Maneater Captain</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M6•WS4•BS4•S5•T4•W3•I3•A5•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Bellower</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Look-out Gnoblar</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<real>11</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>single Ogre pistol</string>
+								<key>Points</key>
+								<real>7</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>brace of Ogre pistols</string>
+								<key>Points</key>
+								<real>12</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<real>4</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>2</real>
+								<key>Name</key>
+								<string>Immune to Psychology</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Poisoned Attacks</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Scouts</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Sniper</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Strider</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Stubborn</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Swiftstride</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Name</key>
+								<string>Vanguard</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Standard</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Maneaters</string>
+					<key>Points</key>
+					<real>50</real>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Been There, Done That; Fear; Ogre Charge; Motley Crew</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS4•S5•T4•W3•I3•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Sabretusk Pack</string>
+					<key>Plural Name</key>
+					<string>Sabretusks</string>
+					<key>Points</key>
+					<real>21</real>
+					<key>Singular Name</key>
+					<string>Sabretusk</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Beasts; Fear; Running With The Pack; Their Master's Voice</string>
+					<key>Stats</key>
+					<string>M8•WS4•BS0•S4•T4•W2•I4•A3•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Greyback</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S5•T4•W3•I4•A4•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Yhetees</string>
+					<key>Points</key>
+					<real>10</real>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Aura of Frost; Fear; Flammable; Swiftstride</string>
+					<key>Stats</key>
+					<string>M7•WS3•BS0•S5•T4•W3•I4•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Crusher</string>
+								<key>Points</key>
+								<real>10</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS2•S4•T4•W3•I2•A4•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Bellower</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>ironfists</string>
+								<key>Points</key>
+								<real>5</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapons</string>
+								<key>Points</key>
+								<real>8</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>brace of Ogre pistols</string>
+								<key>Points</key>
+								<real>6</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<real>50</real>
+							<key>Name</key>
+							<string>Magic Standard</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Mournfangs</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M8•WS3•BS0•S5•T4•W3•I2•A4•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Mournfang Cavalry</string>
+					<key>Points</key>
+					<real>60</real>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Cavalry; Fear; Impact Hits (D3); Thick-skinned</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S4•T4•W3•I2•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Gorger</string>
+					<key>Points</key>
+					<real>90</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Ambushers; Fear; Frenzy; Killing Blow; Unbreakable</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS0•S5•T5•W4•I2•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>2</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Skrag's Gorgers</string>
+					<key>Plural Name</key>
+					<string>Gorgers</string>
+					<key>Points</key>
+					<real>90</real>
+					<key>Singular Name</key>
+					<string>Gorger</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Ambushers; Fear; Frenzy; Killing Blow; Unbreakable</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS0•S5•T5•W4•I2•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>7</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>7</real>
+								<key>Name</key>
+								<string>Gnoblar Scrappers</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M-•WS2•BS3•S2•T-•W-•I3•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Scraplauncher catapult</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Rhinox</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS-•S5•T-•W-•I2•A3•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Gnoblar Scraplauncher</string>
+					<key>Points</key>
+					<real>130</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot (Armour Save 4+); Fear; Large Target</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T5•W5•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Leadbelcher</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S4•T-•W-•I2•A3•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Gnoblar Scrapper</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M-•WS2•BS3•S2•T-•W-•I3•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Cannon of the Sky Titans</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Rhinox</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M6•WS3•BS-•S5•T-•W-•I2•A3•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Ironblaster</string>
+					<key>Points</key>
+					<real>170</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot (Armour Save 4+); Fear; Large Target</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T6•W5•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Giant</string>
+					<key>Points</key>
+					<real>200</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Fall Over; Giant Special Attacks; Large Target; Stubborn; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS3•S6•T5•W6•I3•A*•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Ogre Beast Rider</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S4•T-•W-•I2•A3•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>chaintrap</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>harpoon launcher</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Stonehorn</string>
+					<key>Points</key>
+					<real>250</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Beast Rider; Earth-shattering Charge; Frenzy; Hunting Beast; Large Target; Natural Armour (4+); Stone Skeleton; Terror</string>
+					<key>Stats</key>
+					<string>M7•WS3•BS0•S6•T6•W6•I2•A5•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>0.0</real>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>2 Ogre Beast Riders</string>
+								<key>Points</key>
+								<real>0.0</real>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S4•T-•W-•I2•A3•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>chaintrap; harpoon launcher</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Thundertusk</string>
+					<key>Points</key>
+					<real>250</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Beast Rider; Large Target; Natural Armour (5+); Numbing Chill; Smooth Ride; Sphere of Frost-wreathed Ice; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS0•S6•T6•W6•I2•A4•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2012-08-24T00:52:57Z</date>
+</dict>
+</plist>

@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Dwarfs</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Weapon Rune</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Skalf Blackhammer</string>
+					<key>Points</key>
+					<real>75</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Smiting</string>
+					<key>Points</key>
+					<real>70</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Alaric The Mad</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Breaking</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Flight</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Might</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Swiftness</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Snorri Spangelhelm</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Fury</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Cleaving</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Kragg the Grim</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Grudge Rune</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Striking</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Speed</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Weapon Rune</string>
+					<key>Name</key>
+					<string>Rune of Fire</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Armour Rune</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Steel</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Fortitude</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Adamant</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Gromril</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Shielding</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Resistance</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Iron</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Preservation</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Armour Rune</string>
+					<key>Name</key>
+					<string>Rune of Stone</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Runic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Master Rune of Valaya</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Master Rune of Stromni Redbeard</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Master Rune of Fear</string>
+					<key>Points</key>
+					<real>75</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Strollaz's Rune</string>
+					<key>Points</key>
+					<real>55</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Master Rune of Grungni</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Slowness</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Courage</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Guarding</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Battle</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Stoicism</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Determination</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Rune of Sanctuary</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Standard</string>
+					<key>Name</key>
+					<string>Ancestor Rune</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Runic Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Kingship</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Balance</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Spellbinding</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Spelleater Rune</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Spite</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of Fate</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Challenge</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Master Rune of Dismay</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of Spellbreaking</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of Brotherhood</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of Luck</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of Warding</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Runic Talisman</string>
+					<key>Name</key>
+					<string>Rune of the Furnace</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Engineering Rune</string>
+			<key>Icon</key>
+			<string>glyphicons_019_cogwheel</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Defence</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Forging</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Disguise</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Immolation</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Master Rune of Skewering</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Accuracy</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Fortune</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Penetrating</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Valiant Rune</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Stalwart Rune</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Flakkson's Rune of Seeking</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Reloading</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Engineering Rune</string>
+					<key>Name</key>
+					<string>Rune of Burning</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>pistol</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>crossbow</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dwarf handgun</string>
+								<key>Points</key>
+								<integer>15</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Oath Stone</string>
+								<key>Points</key>
+								<integer>30</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Shieldbearers</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>125</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons, Armour, Talismans)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Dwarf Lord</string>
+					<key>Points</key>
+					<integer>145</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Royal Blood</string>
+					<key>Stats</key>
+					<string>M3•WS7•BS4•S4•T5•W3•I4•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Anvil of Doom</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Anvil Guard</string>
+											<key>Stats</key>
+											<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>175</integer>
+								<key>Special Rules</key>
+								<string>Anvil of Doom; War Machine; Unbreakable; Dispel Dice</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S-•T10•W5*•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>150</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons, Armour, Talismans)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Runelord</string>
+					<key>Points</key>
+					<integer>140</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Rune Lore</string>
+					<key>Stats</key>
+					<string>M3•WS6•BS4•S4•T5•W3•I3•A2•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Slayer axes</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Daemon Slayer</string>
+					<key>Points</key>
+					<integer>110</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Slayer; Unbreakable; Loner; Slayer Axes</string>
+					<key>Stats</key>
+					<string>M3•WS7•BS3•S4•T5•W3•I5•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Thronebearers</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T-•W-•I3•A4•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Throne of Power; The Axe of Grimnir; The Armour of Skaldour; Dragon Crown of Karaz; Great Book of Grudges</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Thorgrim Grudgebearer</string>
+					<key>Points</key>
+					<integer>780</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Large Target; Royal Blood; Thronebearers</string>
+					<key>Stats</key>
+					<string>M3•WS7•BS6•S4•T5•W7•I4•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Kraggi</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Assistant at the forge</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Anvil of Doom</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Anvil Guard</string>
+											<key>Stats</key>
+											<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>175</integer>
+								<key>Special Rules</key>
+								<string>Anvil of Doom</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S-•T4•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Klad Brakak; Thorek's rune armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Thorek Ironbrow</string>
+					<key>Points</key>
+					<integer>505</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Master of Ancient Lore</string>
+					<key>Stats</key>
+					<string>M3•WS6•BS4•S4•T5•W3•I3•A2+1•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Battle Standard</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>pistol</string>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Battle Standard</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>crossbow</string>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Battle Standard</string>
+								</array>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dwarf handgun</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Battle Standard</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>!Battle Standard</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Oath Stone</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>75</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons, Armour, Talismans)</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>!Runic Standard</string>
+							</array>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Runic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Thane</string>
+					<key>Points</key>
+					<integer>65</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Stats</key>
+					<string>M3•WS6•BS4•S4•T5•W2•I3•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>75</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons, Armour, Talismans)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Runesmith</string>
+					<key>Points</key>
+					<integer>70</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Rune Lore</string>
+					<key>Stats</key>
+					<string>M3•WS5•BS4•S4•T4•W2•I2•A2•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>pistol</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>brace of pistols</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dwarf handgun</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons, Armour, Talismans)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Master Engineer</string>
+					<key>Points</key>
+					<integer>70</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Artillery Master; Entrenchment</string>
+					<key>Stats</key>
+					<string>M3•WS4•BS5•S4•T4•W2•I2•A2•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Slayer axes</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>75</integer>
+							<key>Name</key>
+							<string>Runic Items (Weapons)</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Dragon Slayer</string>
+					<key>Points</key>
+					<integer>50</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Slayer; Unbreakable; Loner; Slayer Axes</string>
+					<key>Stats</key>
+					<string>M3•WS6•BS3•S4•T5•W2•I4•A3•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Thronebearers</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T-•W-•I3•A4•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Bugman's rune axe; crossbow; gromril armour; shield; Bugman's tankard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Josef Bugman</string>
+					<key>Points</key>
+					<integer>155</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Bugman's Rangers</string>
+					</array>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Bugman's Rangers; Ranger</string>
+					<key>Stats</key>
+					<string>M3•WS6•BS5•S4•T5•W2•I4•A3•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Veteran</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapons</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Rangers upgrade</string>
+								<key>Notes</key>
+								<string>One unit of Rangers per army</string>
+								<key>Points</key>
+								<integer>1</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>great weapons</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>throwing axes</string>
+								<key>Points</key>
+								<integer>1</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Rangers upgrade</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Dwarf Warriors</string>
+					<key>Points</key>
+					<integer>8</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Stats</key>
+					<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Veteran</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapons</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Rangers upgrade</string>
+								<key>Notes</key>
+								<string>One unit of Rangers per army</string>
+								<key>Points</key>
+								<integer>1</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>great weapons</string>
+								</array>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>throwing axes</string>
+								<key>Points</key>
+								<integer>1</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>Rangers upgrade</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Runic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Longbeards</string>
+					<key>Notes</key>
+					<string>May not have more Longbeards than Warriors</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Immune to Panic; Old Grumblers</string>
+					<key>Stats</key>
+					<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Veteran</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>crossbow; hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapons</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Rangers upgrade</string>
+								<key>Notes</key>
+								<string>One unit of Rangers per army</string>
+								<key>Points</key>
+								<integer>1</integer>
+								<key>Prerequisite</key>
+								<array>
+									<string>great weapons</string>
+								</array>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Quarrellers</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Stats</key>
+					<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Veteran</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Dwarf handgun</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>brace of pistols</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Dwarf handgun; hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Thunderers</string>
+					<key>Points</key>
+					<integer>14</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Stats</key>
+					<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Veteran</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; great weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>throwing axes</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Exclude</key>
+					<true/>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Runic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Bugman's Rangers</string>
+					<key>Points</key>
+					<integer>14</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Josef Bugman</string>
+					</array>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Immune to Panic; Old Grumblers; Rangers</string>
+					<key>Stats</key>
+					<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Gate Keeper</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>12</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>great weapon; hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Runic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Hammerers</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Stubborn; Bodyguard</string>
+					<key>Stats</key>
+					<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Dwarf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Engineer</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Dwarf handgun</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>brace of pistols</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>Artillery Specialist; Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS4•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Engineering Runes</string>
+							<key>Notes</key>
+							<string>Maximum 3 runes</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Cannon</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Dwarf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Engineer</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Dwarf handgun</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>brace of pistols</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>Artillery Specialist; Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS4•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Engineering Runes</string>
+							<key>Notes</key>
+							<string>Maximum 3 runes</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Bolt Thrower</string>
+					<key>Points</key>
+					<integer>45</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Prospector</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>pick (great weapon)</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>steam drill</string>
+											<key>Points</key>
+											<integer>25</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; heavy armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>pick (great weapon); hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>1</integer>
+								<key>Name</key>
+								<string>blasting charges</string>
+								<key>Points</key>
+								<integer>30</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Miners</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Underground Advance</string>
+					<key>Stats</key>
+					<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Ironbeard</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T4•W1•I2•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>12</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; gromril armour; shield</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Runic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Ironbreakers</string>
+					<key>Points</key>
+					<integer>13</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Stats</key>
+					<string>M3•WS5•BS3•S4•T4•W1•I2•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Dwarf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Engineer</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Dwarf handgun</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>brace of pistols</string>
+											<key>Points</key>
+											<integer>5</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>Artillery Specialist; Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS4•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Engineering Runes</string>
+							<key>Notes</key>
+							<string>Maximum 3 runes</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Grudge Thrower</string>
+					<key>Points</key>
+					<integer>80</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Giant Slayer</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M3•WS5•BS3•S4•T4•W1•I3•A2•Ld10</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>12</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>slayer axes</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>30</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Slayers</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Slayer; Unbreakable; Slayer Axes</string>
+					<key>Stats</key>
+					<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Dwarf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Organ Gun</string>
+					<key>Points</key>
+					<integer>120</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Dwarf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stubborn</string>
+								<key>Stats</key>
+								<string>M3•WS4•BS3•S3•T4•W1•I2•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Flame Cannon</string>
+					<key>Points</key>
+					<integer>140</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>steam gun</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Gyrocopter</string>
+					<key>Points</key>
+					<integer>140</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fly; Armour Save (4+)</string>
+					<key>Stats</key>
+					<string>M1•WS4•BS-•S4•T5•W3•I2•A2•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2012-08-24T00:52:31Z</date>
+</dict>
+</plist>

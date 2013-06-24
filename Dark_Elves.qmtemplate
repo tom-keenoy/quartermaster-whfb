@@ -1,0 +1,3362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Dark Elves</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Striking</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Battle</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Might</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Biting Blade</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Executioner's Axe</string>
+					<key>Points</key>
+					<real>80</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Ruin</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Web of Shadows</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Chillblade</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Heartseeker</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Hydra Blade</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Caledor's Bane</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Dagger of Hotek</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Lifetaker</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Crimson Death</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Deathpiercer</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Whip of Agony</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Soulrender</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Enchanted Shield</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Armour of Living Death</string>
+					<key>Points</key>
+					<real>60</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Armour of Eternal Servitude</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Cloak of Hag Graef</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Armour of Darkness</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Shield of Ghrond</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Blood Armour</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Talisman of Protection</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Black Amulet</string>
+					<key>Points</key>
+					<real>70</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Ring of Darkness</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Pendant of Khaeleth</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Seal of Ghrond</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Pearl of Infinite Bleakness</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Ring of Hotek</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Null Talisman</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Staff of Sorcery</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Dispel Scroll</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Power Stone</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Black Staff</string>
+					<key>Points</key>
+					<real>55</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Focus Familiar</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Darkstar Cloak</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Sacrificial Dagger</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Tome of Furion</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Deathmask</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>The Hydra's Teeth</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Crystal of Midnight</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Black Dragon Egg</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Potion of Strength</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Gem of Nightmares</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>The Guiding Eye</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>War Banner</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of Nagarythe</string>
+					<key>Points</key>
+					<real>125</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Hydra Banner</string>
+					<key>Points</key>
+					<real>75</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Dread Banner</string>
+					<key>Points</key>
+					<real>40</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Standard of Slaughter</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Standard of Hag Graef</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Sea Serpent Standard</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of Murder</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of Cold Blood</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Gift of Khaine</string>
+			<key>Icon</key>
+			<string>glyphicons_205_electricity</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Rending Stars</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Dance of Doom</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Touch of Death</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Rune of Khaine</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Witchbrew</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Hand of Khaine</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Cry of War</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Manbane</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Black Lotus</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Gift of Khaine</string>
+					<key>Name</key>
+					<string>Dark Venom</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>lance</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>halberd</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>repeater crossbow</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>repeater handbow</string>
+								<key>Points</key>
+								<integer>8</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>pair of repeater handbows</string>
+								<key>Points</key>
+								<integer>16</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Sea Dragon Cloak</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Steed</string>
+								<key>Points</key>
+								<integer>18</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>30</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dark Pegasus</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Fly; Impale Attack; Monstrous Beast</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W3•I4•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Manticore</string>
+								<key>Points</key>
+								<integer>200</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Terror; Monster</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Black Dragon</string>
+								<key>Points</key>
+								<integer>320</integer>
+								<key>Special Rules</key>
+								<string>Fly; Large Target; Terror; Scaly Skin (3+); Noxious Breath; Monster</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T6•W5•I4•A4•Ld7</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Charioteer Crew</string>
+											<key>Stats</key>
+											<string>M-•WS5•BS4•S4•T-•W-•I6•A1•Ld9</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Cold Ones</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S4•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>90</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Stupidity; Chariot; Fear; Armour Save (3+)</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Dreadlord</string>
+					<key>Points</key>
+					<integer>140</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred</string>
+					<key>Stats</key>
+					<string>M5•WS7•BS6•S4•T3•W3•I8•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Magic</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Fire</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Metal</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Shadow</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Steed</string>
+								<key>Points</key>
+								<integer>18</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>30</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dark Pegasus</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Fly; Impale Attack</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W3•I4•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Manticore</string>
+								<key>Points</key>
+								<integer>200</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Terror</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Black Dragon</string>
+								<key>Points</key>
+								<integer>320</integer>
+								<key>Special Rules</key>
+								<string>Fly; Large Target; Terror; Scaly Skin (3+); Noxious Breath</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T6•W5•I4•A4•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Supreme Sorceress</string>
+					<key>Points</key>
+					<integer>225</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Druchii Sorcery</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Destroyer; Armour of Midnight; Spellshield; Circlet of Iron</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>30</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Black Dragon</string>
+								<key>Points</key>
+								<integer>320</integer>
+								<key>Special Rules</key>
+								<string>Fly; Large Target; Terror; Scaly Skin (3+); Noxious Breath</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T6•W5•I4•A4•Ld7</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Charioteer Crew</string>
+											<key>Stats</key>
+											<string>M-•WS5•BS4•S4•T-•W-•I6•A1•Ld9</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Cold Ones</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S4•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>110</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Stupidity; Chariot; Fear; Armour Save (3+)</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Malekith, the Witch King</string>
+					<key>Points</key>
+					<integer>600</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Absolute Power; Immune to Psychology; Druchii Sorcery</string>
+					<key>Stats</key>
+					<string>M5•WS8•BS6•S5•T4•W4•I8•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard; Lore of Dark Magic</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Sulephet</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Fly; Impale Attack; Monstrous Beast</string>
+								<key>Stats</key>
+								<string>M8•WS4•BS-•S4•T4•W3•I4•A3•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Morathi, the Hag Sorceress</string>
+					<key>Points</key>
+					<integer>455</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Druchii Sorcery; Thousand and One Dark Blessings; Enchanting Beauty; The First Sorceress; Loremaster</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S3•T3•W3•I6•A3•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Deathsword; Parrying Blade; Amulet of Fire; Rune of Khaine; Witchbrew; Cry of War</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Manticore</string>
+								<key>Points</key>
+								<integer>200</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Terror</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Crone Hellebron, the Hag Queen</string>
+					<key>Points</key>
+					<integer>350</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Khainite; Frenzy; Two Magic Weapons; Queen of Khaine</string>
+					<key>Stats</key>
+					<string>M5•WS7•BS6•S4•T3•W3•I9•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Magic</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Fire</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Metal</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Shadow</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Steed</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>20</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dark Pegasus</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Fly; Impale Attack</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W3•I4•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Sorceress</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Druchii Sorcery</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W2•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>lance</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>halberd</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Beastmaster's scourge</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>heavy armour</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Sea Dragon Cloak</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dark Steed</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>20</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Dark Pegasus</string>
+								<key>Points</key>
+								<integer>50</integer>
+								<key>Special Rules</key>
+								<string>Fly; Impale Attack</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W3•I4•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Manticore</string>
+								<key>Points</key>
+								<integer>200</integer>
+								<key>Special Rules</key>
+								<string>Monster; Fly; Large Target; Terror</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Cold One Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>1 Charioteer Crew</string>
+											<key>Stats</key>
+											<string>M-•WS5•BS4•S4•T-•W-•I6•A1•Ld9</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Cold Ones</string>
+											<key>Stats</key>
+											<string>M7•WS3•BS-•S4•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>90</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Stupidity; Chariot; Fear; Armour Save (3+)</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Master</string>
+					<key>Points</key>
+					<integer>80</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS6•S4•T3•W2•I7•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Cauldron of Blood</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Hag Attendants</string>
+											<key>Stats</key>
+											<string>M5•WS4•BS4•S3•T3•W1•I6•A2•Ld8</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>110</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Frenzy; Khainite; Ward Save (4+); Terror; Frenzy; Magic Resistance (1); Cauldron of Blood</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S-•T10•W4*•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>two hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Gifts of Khaine</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+								<string>!Magic Items</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Death Hag</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Frenzy; Khainite; Poisoned Attacks</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS6•S4•T3•W2•I8•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Warpsword of Khaine; Sea Dragon Cloak; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spite</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A2•Ld4</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Malus Darkblade, Scion of Hag Graef</string>
+					<key>Points</key>
+					<integer>275</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Tz'arkan; Not Just a Dumb Brute; Cavalry</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS5•S4•T3•W2•I7•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>two hand weapons; Heart of Woe; Potion of Strength; Rending Stars; Dance of Doom; Touch of Death; Hand of Khaine; Dark Venom</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Shadowblade, Master of Assassins</string>
+					<key>Points</key>
+					<integer>300</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Khainite; Poisoned Attacks; Master of Assassins; Always Strikes First; Scout; A Killer, not a Leader</string>
+					<key>Stats</key>
+					<string>M6•WS10•BS10•S4•T3•W2•I10•A3•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>The Red Blades; Sea Dragon Cloak; Helm of the Kraken; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Lokhir Fellheart, Captain of the Tower of Blessed Dread</string>
+					<key>Points</key>
+					<integer>250</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Merciless Slaver; Daring Leap</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS6•S4•T3•W2•I7•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Lordling</string>
+								<key>Points</key>
+								<integer>6</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; spear; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Dark Elf Warriors</string>
+					<key>Points</key>
+					<integer>6</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Guardmaster</string>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS5•S3•T3•W1•I5•A1•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; repeater crossbow; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Dark Elf Repeater Crossbowmen</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Reaver</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>pair of handbows</string>
+											<key>Points</key>
+											<integer>3</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour; Sea Dragon Cloak</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>handbow</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Black Ark Corsairs</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Slavers</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Herald</string>
+								<key>Points</key>
+								<integer>14</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS5•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>7</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>14</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; spear; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>repeater crossbow</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Dark Steed</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Dark Riders</string>
+					<key>Points</key>
+					<integer>17</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Fast Cavalry (unless equipped with shields)</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>vicious claws and temperament (hand weapon)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Exclude</key>
+					<true/>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Harpies</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Fly; Beasts</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS0•S3•T3•W1•I5•A2•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Hag</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I6•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>two hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Gifts of Khaine</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Hag</string>
+							</array>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Witch Elves</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Frenzy; Khainite; Poisoned Attacks</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I6•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Bloodshade</string>
+								<key>Points</key>
+								<integer>18</integer>
+								<key>Stats</key>
+								<string>M5•WS5•BS6•S3•T3•W1•I5•A2•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; repeater crossbow</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Shades</string>
+					<key>Points</key>
+					<integer>16</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Skirmishers; Scouts</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS5•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Draich-master</string>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S4•T3•W1•I5•A2•Ld8</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Tullaris of Har Ganeth</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>The Blade of Har Ganeth; heavy armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>95</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Khainite; Killing Blow; Sacred Slaughterer; Tullaris the Dreaded</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S4•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>12</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>great weapon; hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Har Ganeth Executioners</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Khainite; Killing Blow</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Dread Knight</string>
+								<key>Points</key>
+								<integer>16</integer>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S4•T3•W1•I6•A1•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>8</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>16</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour; lance; shield</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Dread Knight</string>
+							</array>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Cold One</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear; Thick-skinned</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T4•W1•I2•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Cold One Knights</string>
+					<key>Points</key>
+					<integer>27</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Cavalry</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T3•W1•I6•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Charioteer Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M-•WS5•BS4•S4•T-•W-•I6•A1•Ld9</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>spear; hand weapon; repeater crossbow</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Cold Ones</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Stupidity; Fear</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS-•S4•T-•W-•I2•A1•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Cold One Chariot</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Chariot; Armour Save (3+)</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T5•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>additional hand weapon</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>repeater crossbow</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>75</real>
+									<key>Name</key>
+									<string>Gifts of Khaine</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Dark Elf Assassin</string>
+							<key>Points</key>
+							<real>90</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Eternal Hatred; Khainite; Scout; Poisoned Attacks; Always Strikes First; Hidden; A Killer not a Leader</string>
+							<key>Stats</key>
+							<string>M5•WS9•BS9•S4•T3•W2•I10•A3•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Tower Master</string>
+								<key>Points</key>
+								<integer>14</integer>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S3•T3•W1•I6•A3•Ld9</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Kouran of the Black Guard</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>The Crimson Death; The Armour of Grief</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>75</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Warrior Elite; Captain of the Black Guard</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S3•T3•W1•I6•A3•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>7</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>14</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour; halberd</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Tower Master</string>
+							</array>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>20</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Black Guard of Naggarond</string>
+					<key>Points</key>
+					<integer>13</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Immune to Psychology; Warrior Elite; Stubborn</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S3•T3•W1•I6•A2•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Dark Elf Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Reaper Bolt Thrower</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; War Machine</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Beastmasters</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Beastmaster's scourge; hand weapon</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Eternal Hatred; Beastmasters</string>
+								<key>Stats</key>
+								<string>M6•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>talons (hand weapon)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>War Hydra</string>
+					<key>Points</key>
+					<integer>175</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Eternal Hatred; Scaly Skin (4+); Large Target; Terror; Fiery Breath; Regenerate; Monster and Handlers; Monster</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS0•S5•T5•W5•I2•A7•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2012-09-09T21:26:43Z</date>
+</dict>
+</plist>

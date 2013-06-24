@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Tomb Kings</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Destroyer of Eternities</string>
+					<key>Points</key>
+					<real>80</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Blade of Antarhak</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Neferra's Scrolls of Mighty Incantations</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Enkhil's Kanopi</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Golden Death Mask of Kharnut</string>
+					<key>Points</key>
+					<real>60</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Cloak of the Dunes</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Standard of the Undying Legion</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of the Hidden Dead</string>
+					<key>Points</key>
+					<real>90</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>The Blessed Blade of Ptra; light armour; The Crown of Nehekhara; The Scarab Brooch of Usirian</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard; Lore of Nehekhara</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Chariot of the Gods</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>4 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (4+); Chariot of the Gods</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S5•T5•W5•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Settra the Imperishable</string>
+					<key>Points</key>
+					<integer>475</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>The Curse; Flammable; My Will Be Done; Nehekharan Undead; Settra the Great</string>
+					<key>Stats</key>
+					<string>M4•WS7•BS3•S6•T5•W4•I3•A5•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>The Venom Staff; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>High Queen Khalida</string>
+					<key>Points</key>
+					<integer>365</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Always Strikes First; Blessing of Asaph; The Curse; Flammable; Hatred (Vampire Counts); Incarnation of the Asp Goddess; Nehekharan Undead; Poisoned Attacks</string>
+					<key>Stats</key>
+					<string>M6•WS6•BS3•S4•T5•W3•I9•A5•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>The Tomb Blade of Arkhan; light armour; The Liber Mortis; The Staff of Nagash</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard; Lore of Death</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeleton Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>4 Skeletal Steeds</string>
+											<key>Points</key>
+											<integer>15</integer>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Fly</string>
+											<key>Points</key>
+											<integer>30</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>55</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Chariot Legions; Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Arkhan the Black</string>
+					<key>Points</key>
+					<integer>360</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>The Curse; Flammable; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S5•T5•W3•I3•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>The Liche Staff; hand weapon; Scroll of the Cursing Word</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard; Lore of Nehekhara</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Grand Hierophant Khatep</string>
+					<key>Points</key>
+					<integer>330</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Grand Hierophant of Khemri; Loremaster (Lore of Nehekhara); Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S5•T5•W3•I3•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>flail</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeleton Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>55</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Chariot Legions; Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Khemrian Warsphinx</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Envenomed Sting</string>
+											<key>Points</key>
+											<integer>10</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Fiery Roar</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>210</integer>
+								<key>Special Rules</key>
+								<string>Monster; Animated Construct; Howdah Crew; Large Target; Nehekharan Undead; Terror; Thundercrush Attack</string>
+								<key>Stats</key>
+								<string>M6•WS4•BS0•S5•T8•W5•I1•A4•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Tomb King</string>
+					<key>Points</key>
+					<integer>170</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>The Curse; Flammable; My Will Be Done; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS6•BS3•S5•T5•W4•I3•A4•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lore of Nehekhara</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Light</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Liche High Priest</string>
+					<key>Points</key>
+					<integer>175</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T4•W3•I2•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Flail of Skulls; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeleton Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>55</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Chariot Legions; Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>The Herald Nekaph</string>
+					<key>Points</key>
+					<integer>120</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Flammable; Herald of Despair; Killing Blow; Nehekharan Undead; Sworn Bodyguard; Settra's Champion</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T4•W2•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Prince Apophas</string>
+					<key>Points</key>
+					<integer>130</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Desert Revenant; Entombed Beneath the Sands; Fly; Nehekharan Undead; Regeneration; Scarab Prince; Soul Reaper; Strider; Terror</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T3•W4•I1•A5•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; whip (additional hand weapon); light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Ramhotep the Visionary</string>
+					<key>Points</key>
+					<integer>110</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Flammable; Frantic Fervour; Master Artisan; Frenzy; Nehekharan Undead; Stone Shaper; Wrath of the Creator; Hatred</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T4•W2•I3•A2•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>flail</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeleton Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>55</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Chariot Legions; Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Khemrian Warsphinx</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Envenomed Sting</string>
+											<key>Points</key>
+											<integer>10</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Fiery Roar</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>210</integer>
+								<key>Special Rules</key>
+								<string>Monster; Animated Construct; Howdah Crew; Large Target; Nehekharan Undead; Terror; Thundercrush Attack</string>
+								<key>Stats</key>
+								<string>M6•WS4•BS0•S5•T8•W5•I1•A4•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Tomb Prince</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>The Curse; Flammable; My Will Be Done; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS5•BS3•S4•T5•W3•I3•A3•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>spear</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>halberd</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>flail</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeleton Chariot</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>2 Skeletal Steeds</string>
+											<key>Stats</key>
+											<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>55</integer>
+								<key>Special Rules</key>
+								<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Chariot Legions; Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Tomb Herald</string>
+					<key>Points</key>
+					<integer>60</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Flammable; Killing Blow; Nehekharan Undead; Sworn Bodyguard</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W2•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lore of Nehekhara</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Light</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Lore of Death</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Liche Priest</string>
+					<key>Points</key>
+					<integer>70</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S3•T3•W2•I2•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; whip (additional hand weapon); light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Necrotect</string>
+					<key>Points</key>
+					<integer>60</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Flammable; Nehekharan Undead; Stone Shaper; Wrath of the Creator; Hatred</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T4•W2•I3•A2•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master of Arms</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS2•S3•T3•W1•I2•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; shields</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Skeleton Warriors</string>
+					<key>Points</key>
+					<integer>4</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS2•S3•T3•W1•I2•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master of Arrows</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; bows</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Skeleton Archers</string>
+					<key>Points</key>
+					<integer>6</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Arrows of Asaph; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS2•S3•T3•W1•I2•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master of Horse</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS2•S3•T3•W1•I2•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; spears; shields</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>light armour</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Skeleton Horsemen</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Nehekharan Undead; Vanguard</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS2•S3•T3•W1•I2•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master of Scouts</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS3•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; bows</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skeletal Steed</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Nehekharan Undead</string>
+								<key>Stats</key>
+								<string>M8•WS2•BS0•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Skeleton Horse Archers</string>
+					<key>Points</key>
+					<integer>14</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Arrows of Asaph; Fast Cavalry; Nehekharan Undead; Scouts</string>
+					<key>Stats</key>
+					<string>M4•WS2•BS2•S3•T3•W1•I2•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skeleton Charioteers</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>spears; bows</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M-•WS3•BS2•S3•T-•W-•I2•A2•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master of Chariots</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M-•WS3•BS2•S3•T-•W-•I2•A3•Ld7</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>25</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>standard bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Skeletal Steeds</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M8•WS2•BS-•S3•T-•W-•I2•A1•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Skeleton Chariots</string>
+					<key>Points</key>
+					<integer>55</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Chariot; Armour Save (5+); "And the Tomb Kings Rode To War..."; Arrows of Asaph; Chariot Legions; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S4•T4•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Tomb Captain</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS3•BS3•S4•T4•W1•I3•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons; light armour; shields</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>halberds</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Banner</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>standard bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Tomb Guard</string>
+					<key>Points</key>
+					<integer>11</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Killing Blow; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS3•S4•T4•W1•I3•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Necropolis Captain</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M4•WS4•BS3•S4•T4•W1•I3•A3•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Entombed Beneath the Sands</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Necroserpents</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Animated Construct; Nehekharan Undead; Poisoned Attacks; Stone Hide</string>
+								<key>Stats</key>
+								<string>M7•WS3•BS0•S5•T4•W3•I3•A3•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Necropolis Knights</string>
+					<key>Points</key>
+					<integer>65</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Cavalry; Animated Construct; Killing Blow; Nehekharan Undead; Stone Hide</string>
+					<key>Stats</key>
+					<string>M4•WS4•BS3•S4•T4•W1•I3•A2•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>stinging tail and wicked claws</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Tomb Scorpion</string>
+					<key>Points</key>
+					<integer>85</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Beast; Animated Construct; Entombed Beneath the Sands; Killing Blow; Magic Resistance (1); Nehekharan Undead; Poisoned Attacks</string>
+					<key>Stats</key>
+					<string>M7•WS4•BS0•S5•T5•W3•I3•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Ushabti Ancient</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS2•S4•T4•W3•I3•A4•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>musician</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>standard bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>great weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great bows</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Ushabti</string>
+					<key>Points</key>
+					<integer>50</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Infantry; Animated Construct; Arrows of Asaph; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS2•S4•T4•W3•I3•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>Tomb Swarm</string>
+					<key>Points</key>
+					<integer>40</integer>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Swarm; Entombed Beneath the Sands; Nehekharan Undead; Poisoned Attacks</string>
+					<key>Stats</key>
+					<string>M4•WS3•BS0•S2•T2•W5•I1•A5•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Carrion</string>
+					<key>Points</key>
+					<integer>24</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>War Beasts; Fly; Nehekharan Undead</string>
+					<key>Stats</key>
+					<string>M2•WS3•BS0•S4•T4•W2•I3•A3•Ld4</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>4 Tomb Guard Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>spears</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Killing Blow</string>
+								<key>Stats</key>
+								<string>M-•WS3•BS3•S4•T-•W-•I3•A1•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Envenomed Sting</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Fiery Roar</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Khemrian Warsphinx</string>
+					<key>Points</key>
+					<integer>210</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Animated Construct; Howdah Crew; Large Target; Nehekharan Undead; Terror; Thundercrush Attack</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS0•S5•T8•W5•I1•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>halberds</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Sepulchral Stalkers</string>
+					<key>Points</key>
+					<integer>55</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Beasts; Animated Construct; Entombed Beneath the Sands; Nehekharan Undead; Transmogrifying Gaze</string>
+					<key>Stats</key>
+					<string>M7•WS3•BS3•S4•T4•W3•I3•A2•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>huge sword (hand weapon)</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>bow of the desert</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Necrolith Colossus</string>
+					<key>Points</key>
+					<integer>170</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Animated Construct; Arrows of Asaph; Large Target; Nehekharan Undead; Terror; Unstoppable Assault</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS2•S6•T6•W5•I1•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Icon of Ptra; Scales of Usirian</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>bow of the desert</string>
+								<key>Points</key>
+								<integer>20</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Hierotitan</string>
+					<key>Points</key>
+					<integer>175</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Animated Construct; Large Target; Nehekharan Undead; Spirit Conduit; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS0•S6•T6•W5•I1•A3•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Envenomed Sting</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Necrosphinx</string>
+					<key>Points</key>
+					<integer>225</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Animated Construct; Decapitating Strike; Fly; Killing Blow; Large Target; Nehekharan Undead; Terror</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS0•S5•T8•W5•I1•A5•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Skeleton Crew</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapons; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M4•WS2•BS2•S3•T3•W1•I2•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skulls of the Foe</string>
+								<key>Points</key>
+								<integer>30</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Screaming Skull Catapult</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine (Stone Thrower); Nehekharan Undead; Screaming Skulls</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T7•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Keeper of the Casket</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>hand weapon; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M4•WS3•BS3•S3•T3•W1•I3•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 Casket Guard</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>great weapons; light armour</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Killing Blow</string>
+								<key>Stats</key>
+								<string>M4•WS3•BS3•S3•T3•W1•I3•A2•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skulls of the Foe</string>
+								<key>Points</key>
+								<integer>30</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Casket of Souls</string>
+					<key>Points</key>
+					<integer>135</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine; Covenant of Power; Light of Death; Nehekharan Undead; Unleashed Souls</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T10•W3•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2012-06-20T09:22:26Z</date>
+</dict>
+</plist>

@@ -1,0 +1,3816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Skaven</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Striking</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Battle</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Sword of Might</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Biting Blade</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>The Fellblade</string>
+					<key>Points</key>
+					<real>100</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Warpforged Blade</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Warlock-augmented Weapon</string>
+					<key>Points</key>
+					<real>45</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Blade of Corruption</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Weeping Blade</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Dwarfbane</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Blade of Nurglitch</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Warpstone Stars</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Doomrocket</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Death Globe</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Shock-prod</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Electro-whip</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Enchanted Shield</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Warpstone Armour</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>World's Edge Armour</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Shield of Distraction</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Talisman of Protection</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Foul Pendant</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Shadow Magnet Trinket</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Rival Hide Talisman</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Dispel Scroll</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Power Stone</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Staff of Sorcery</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Warpstorm Scroll</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Warp-energy Condenser</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Scrying Stone</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Warpstone Token</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Warp Scroll</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Skavenbrew</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Skalm</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Pipes of Piebald</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Portents of Verminous Doom</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Infernal Bomb</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Smoke Bombs</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Brass Orb</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Warlock Optics</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>War Banner</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Sacred Banner of the Horned Rat</string>
+					<key>Points</key>
+					<real>70</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Storm Banner</string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Grand Banner of Clan Superiority</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Shroud of Dripping Death</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of the Under-Empire</string>
+					<key>Points</key>
+					<real>25</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Dwarf-hide Banner</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of Verminous Scurrying</string>
+					<key>Points</key>
+					<real>10</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Plague Banner</string>
+					<key>Points</key>
+					<real>30</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Scavenge-pile Item</string>
+			<key>Icon</key>
+			<string>glyphicons_065_bomb</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Scavenge-pile Item</string>
+					<key>Name</key>
+					<string>Warpmusket</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Scavenge-pile Item</string>
+					<key>Name</key>
+					<string>Poisoned Attacks</string>
+					<key>Points</key>
+					<real>15</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Scavenge-pile Item</string>
+					<key>Name</key>
+					<string>Tail Weapon</string>
+					<key>Points</key>
+					<real>8</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Scavenge-pile Item</string>
+					<key>Name</key>
+					<string>Warplock Pistol</string>
+					<key>Points</key>
+					<real>8</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Scavenge-pile Item</string>
+					<key>Name</key>
+					<string>Rat Hound Bodyguard</string>
+					<key>Points</key>
+					<real>5</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Lords</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Doom Glaive</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Ruin</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Vermin Lord</string>
+					<key>Points</key>
+					<integer>500</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Scurry Away!; Immune to Psychology; Large Target; Rat Daemon; Terror; Ward Save (5+)</string>
+					<key>Stats</key>
+					<string>M8•WS8•BS4•S6•T5•W5•I10•A5•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>halberd</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items and Scavenge-pile items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Rat Ogre Bonebreaker</string>
+								<key>Points</key>
+								<integer>65</integer>
+								<key>Special Rules</key>
+								<string>Scurry Away!; Strength in Numbers; Fear; Trained Mount; Monstrous Beast</string>
+								<key>Stats</key>
+								<string>M6•WS4•BS3•S5•T5•W4•I3•A5•Ld5</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>War-litter</string>
+								<key>Points</key>
+								<integer>35</integer>
+								<key>Special Rules</key>
+								<string>Borne Litter</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS–•S4•T–•W–•I5•A4•Ld–</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Great Pox Rat</string>
+								<key>Points</key>
+								<integer>30</integer>
+								<key>Special Rules</key>
+								<string>Poisoned Attacks; Verminous Cavalry; War Beast</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S4•T4•W1•I5•A2•Ld2</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Warlord</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS4•S4•T4•W3•I7•A4•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; D3 Warpstone Tokens</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Ruin</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>1 Skitterleap</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>2 Warp Lightning</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>3 Howling Warpgale</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>4 Death Frenzy</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>5 Scorch</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>6 Crack's Call</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>1 Pestilent Breath</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>2 Bless With Filth</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>3 Wither</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>4 Vermintide</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>5 Cloud of Corruption</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>6 Plague</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Curse of the Horned Rat</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>100</integer>
+							<key>Name</key>
+							<string>Magic Items and Scavenge-pile items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Screaming Bell</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Rat Ogre Crew</string>
+											<key>Stats</key>
+											<string>M–•WS3•BS–•S5•T–•W–•I4•A3•Ld–</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>200</integer>
+								<key>Special Rules</key>
+								<string>Above the Masses; Altar of the Horned Rat; Fear; Impact Hits (D6); Large Target; Magic Resistance (2); Protection of the Horned Rat; Pushed into Battle; Ringing the Bell; Unbreakable</string>
+								<key>Stats</key>
+								<string>M–•WS–•BS–•S5•T6•W6•I–•A–•Ld–</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Grey Seer</string>
+					<key>Points</key>
+					<integer>240</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T4•W3•I5•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Rod of Corruption; The Liber Bubonicus</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Lord Skrolk</string>
+					<key>Points</key>
+					<integer>470</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Aura of Pestilence; Frenzy; Terror</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS4•S4•T5•W3•I6•A4•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Boneripper</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>talons and teeth; warpfire thrower</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Bodyguard of Thanquol; Fear; Unbreakable; Monstrous Infantry</string>
+								<key>Stats</key>
+								<string>M5•WS3•BS1•S5•T5•W3•I1•A4•Ld10</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>sword; warp amulet; Staff of the Horned One; D6+2 Warpstone Tokens</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 4 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Ruin</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Thanquol</string>
+					<key>Points</key>
+					<integer>450</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour; Blessing of the Horned Rat; Warpstone Addiction</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T4•W3•I6•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Storm Daemon; warplock pistol; Iron Frame</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 3 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Ikit Claw</string>
+					<key>Points</key>
+					<integer>395</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS3•S5•T4•W3•I3•A2•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>light armour; Creater-killer; Whip of Domination</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Throt the Unclean</string>
+					<key>Points</key>
+					<integer>225</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Fear; Master Controller; Ravening Hunger; Regeneration</string>
+					<key>Stats</key>
+					<string>M6•WS6•BS3•S4•T4•W3•I6•A4•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; Dwarf Gouger; warp-shard armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Queek Headtaker</string>
+					<key>Points</key>
+					<integer>215</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Extreme Distrust; Hates Dwarfs, Orcs and Goblins; Trophy Heads</string>
+					<key>Stats</key>
+					<string>M5•WS7•BS4•S4•T4•W3•I7•A6•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Heroes</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Warlock-Augmented Weapon</string>
+								<key>Points</key>
+								<integer>45</integer>
+								<key>Special Rules</key>
+								<string>+1S•+1A</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Warplock Pistol</string>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>R10"•S4 Armour Piercing, Quick to Fire, Unstable Ammunition, Warpstone Weapon</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Warpmusket</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Special Rules</key>
+								<string>R24"•S5 Armour Piercing, Move or Fire, Unstable Ammunition, Warpstone Weapon</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Level 1 Wizard; Skaven Spells of Ruin</string>
+								<key>Points</key>
+								<integer>50</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard; Skaven Spells of Ruin</string>
+								<key>Points</key>
+								<integer>85</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items (including Clan Skryre Gear of War items) and Scavenge-pile items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Warlock Engineer</string>
+					<key>Points</key>
+					<integer>15</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T3•W2•I4•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>great weapon</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>halberd</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shield</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Battle Standard</string>
+								<key>Points</key>
+								<integer>25</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items and Scavenge-pile items</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>!Magic Standard</string>
+							</array>
+						</dict>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>-1</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Battle Standard</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Chieftain</string>
+					<key>Points</key>
+					<integer>45</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Verminous Valour</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T4•W2•I6•A3•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Plague Censer</string>
+								<key>Points</key>
+								<integer>16</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>flail</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>additional hand weapon</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Level 1 Wizard</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Level 2 Wizard</string>
+								<key>Points</key>
+								<integer>35</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Skaven Spells of Plague</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items (including Clan Pestilens Befouled items) and Scavenge-pile items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Great Pox Rat</string>
+								<key>Points</key>
+								<integer>30</integer>
+								<key>Special Rules</key>
+								<string>Poisoned Attacks; Verminous Cavalry</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S4•T4•W1•I5•A2•Ld2</string>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Plague Furnace</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Plague Monk Crew</string>
+											<key>Stats</key>
+											<string>M–•WS3•BS–•S3•T–•W–•I3•A6•Ld–</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>150</integer>
+								<key>Special Rules</key>
+								<string>Billowing Death; Frenzy; Fuming Close Combat; Icon of the Horned Rat; Impact Hits (D6); Large Target; Magic Resistance (2); Pushed into Battle; Pestilent Blessing; Unbreakable; Wreaker Attack (Always Strikes Last)</string>
+								<key>Stats</key>
+								<string>M–•WS–•BS–•S5•T6•W6•I–•A–•Ld–</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Plague Priest</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Frenzy</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS3•S4•T5•W2•I5•A3•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>throwing stars; The Cloak of Shadows; Whirl of Weeping Blades</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Deathmaster Snikch</string>
+					<key>Points</key>
+					<integer>270</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Sneaky Infiltrator; Verminous Valour; A Killer, Not a Leader; Always Strikes First; Dodge (4+); Hidden; Scouts</string>
+					<key>Stats</key>
+					<string>M6•WS8•BS6•S4•T4•W2•I10•A6•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>heavy armour; 2 hand weapons; tail blade; Lucky Skullhelm</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Tretch Craventail</string>
+					<key>Points</key>
+					<integer>145</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Sneaky Infiltrator; Verminous Valour; Stay Here, I'll Get Help!; Tretch's Raiders</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T4•W2•I6•A3•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>two hand weapons; throwing stars</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Items (including Clan Eshin Tools of War items) and Scavenge-pile items</string>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Assassin</string>
+					<key>Points</key>
+					<integer>120</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Sneaky Infiltrators; Verminous Valour; A Killer, Not A Leader; Always Strikes First; Dodge (4+); Hidden; Poisoned Attacks; Scouts</string>
+					<key>Stats</key>
+					<string>M6•WS6•BS5•S4•T4•W2•I8•A3•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Poisoned Wind Mortar</string>
+										<key>Points</key>
+										<integer>65</integer>
+										<key>Special Rules</key>
+										<string>Stone Thrower: R6-24"•S* Ignores Armour, Move and Fire</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Warpfire Thrower</string>
+										<key>Points</key>
+										<integer>70</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Ratling Gun</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Doom Flayer</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Clawleader</string>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T3•W1•I4•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>4</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>8</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; light armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Clanrats</string>
+					<key>Points</key>
+					<integer>4</integer>
+					<key>Size</key>
+					<integer>20</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Poisoned Wind Mortar</string>
+										<key>Points</key>
+										<integer>65</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Warpfire Thrower</string>
+										<key>Points</key>
+										<integer>70</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Ratling Gun</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Doom Flayer</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>15</real>
+										<key>Name</key>
+										<string>Scavenge-pile item</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Fangleader</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS4•BS3•S3•T3•W1•I5•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string>Magic Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; halberd; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Stormvermin</string>
+					<key>Points</key>
+					<integer>7</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS3•S3•T3•W1•I5•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Pawleader</string>
+								<key>Points</key>
+								<integer>4</integer>
+								<key>Stats</key>
+								<string>M5•WS2•BS2•S3•T3•W1•I4•A2•Ld2</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>2</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>spears</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>slings</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<real>0.5</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Skavenslaves</string>
+					<key>Points</key>
+					<integer>2</integer>
+					<key>Size</key>
+					<integer>20</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Expendable; Cornered Rats</string>
+					<key>Stats</key>
+					<string>M5•WS2•BS2•S3•T3•W1•I4•A1•Ld2</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Warp-grinder</string>
+										<key>Points</key>
+										<integer>60</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Nightleader</string>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>Dodge (6+)</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S3•T3•W1•I5•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 hand weapons; throwing stars</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>slings</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Night Runners</string>
+					<key>Points</key>
+					<integer>7</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Slinking Advance</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS3•S3•T3•W1•I5•A1•Ld6</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Packmaster</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>Scurry Away!; Mixed Unit; Running with the Pack</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>30</real>
+										<key>Name</key>
+										<string>Scavenge-pile items and Clan Moulder Beast-prods</string>
+									</dict>
+								</array>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Master Moulder</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>great weapon</string>
+											<key>Points</key>
+											<integer>4</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>things-catcher</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>33</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I5•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Skweel Gnawtooth</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; warp-lash</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>108</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour; Exceptional Pack; Mixed Unit; Verminous Bodyguard</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I6•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>sharp teeth/claws</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Exclude</key>
+					<true/>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Giant Rats</string>
+					<key>Notes</key>
+					<string>Do not count towards minimum Core. 1 Packmaster per 5 Giant Rats.</string>
+					<key>Points</key>
+					<integer>3</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Mixed Unit; Rat Pack; Wave of Rats; War Beasts</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S3•T3•W1•I4•A1•Ld3</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>sharp teeth/claws</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Exclude</key>
+					<true/>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>Rat Swarms</string>
+					<key>Notes</key>
+					<string>Do not count towards minimum Core</string>
+					<key>Points</key>
+					<integer>25</integer>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Unbreakable; Swarm; Small</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS0•S2•T2•W5•I4•A5•Ld10</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Poisoned Wind Mortar</string>
+										<key>Points</key>
+										<integer>65</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Warpfire Thrower</string>
+										<key>Points</key>
+										<integer>70</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Ratling Gun</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Doom Flayer</string>
+										<key>Points</key>
+										<integer>55</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>15</real>
+										<key>Name</key>
+										<string>Scavenge-pile item</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Fangleader</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS5•BS3•S4•T3•W1•I5•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string>Magic Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; halberd; heavy armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>shields</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Queek Headtaker's Stormvermin</string>
+					<key>Points</key>
+					<real>11</real>
+					<key>Prerequisite</key>
+					<array>
+						<string>Queek Headtaker</string>
+					</array>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS3•S4•T3•W1•I5•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Packmaster</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>Scurry Away!; Mixed Unit; Running with the Pack</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>30</real>
+										<key>Name</key>
+										<string>Scavenge-pile items and Clan Moulder Beast-prods</string>
+									</dict>
+								</array>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Master Moulder</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>great weapon</string>
+											<key>Points</key>
+											<integer>4</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>things-catcher</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>33</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I5•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Skweel Gnawtooth</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; warp-lash</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>108</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour; Exceptional Pack; Mixed Unit; Verminous Bodyguard</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I6•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>sharp teeth/claws</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Throt the Unlean's Giant Rats</string>
+					<key>Notes</key>
+					<string>1 Packmaster per 5 Giant Rats.</string>
+					<key>Points</key>
+					<integer>3</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Throt the Unclean</string>
+					</array>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Mixed Unit; Rat Pack; Wave of Rats; War Beasts</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S3•T3•W1•I4•A1•Ld3</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master-bred Rat Ogre</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M6•WS4•BS1•S5•T4•W3•I5•A4•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Packmaster</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>Scurry Away!; Mixed Unit; Running with the Pack</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>30</real>
+										<key>Name</key>
+										<string>Scavenge-pile items and Clan Moulder Beast-prods</string>
+									</dict>
+								</array>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Master Moulder</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>great weapon</string>
+											<key>Points</key>
+											<integer>4</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>things-catcher</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>33</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I5•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Skweel Gnawtooth</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; warp-lash</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>108</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour; Exceptional Pack; Mixed Unit; Verminous Bodyguard</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I6•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>claws and savagery</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>Throt the Unlean's Rat Ogres</string>
+					<key>Notes</key>
+					<string>1 Packmaster per 2 Rat Ogres.</string>
+					<key>Points</key>
+					<integer>40</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Throt the Unclean</string>
+					</array>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Mixed Unit; Beast Pack; Fear; Frenzy; Monstrous Infantry</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S5•T4•W3•I4•A3•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Bringer-of-the-Word</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T4•W1•I3•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Magic Items</key>
+					<array>
+						<dict>
+							<key>Items</key>
+							<array/>
+							<key>Limit</key>
+							<integer>50</integer>
+							<key>Name</key>
+							<string>Magic Standard</string>
+							<key>Prerequisite</key>
+							<array>
+								<string>Standard Bearer</string>
+							</array>
+						</dict>
+					</array>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Lord Skrolk's Plague Monks</string>
+					<key>Points</key>
+					<integer>7</integer>
+					<key>Prerequisite</key>
+					<array>
+						<string>Lord Skrolk</string>
+					</array>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Frenzy</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T4•W1•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Warp-grinder</string>
+										<key>Points</key>
+										<integer>60</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Notes</key>
+							<string>Only available to half Gutter Runners in army</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Deathrunner</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Smoke Bombs</string>
+											<key>Points</key>
+											<integer>10</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Weeping Blade</string>
+											<key>Points</key>
+											<integer>30</integer>
+											<key>Special Rules</key>
+											<string>Armour Piercing; Multiple Wounds (D3)</string>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>12</integer>
+								<key>Special Rules</key>
+								<string>Dodge (5+)</string>
+								<key>Stats</key>
+								<string>M6•WS4•BS4•S3•T3•W1•I5•A2•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>hand weapon; snare net</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>throwing stars</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>slings</string>
+								<key>Points</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Poisoned Attacks</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>15</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Gutter Runners</string>
+					<key>Points</key>
+					<integer>12</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Scouts; Skirmish; Sneaky Infiltrators; Dodge (6+)</string>
+					<key>Stats</key>
+					<string>M6•WS4•BS4•S3•T3•W1•I5•A1•Ld7</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Master-bred Rat Ogre</string>
+								<key>Points</key>
+								<integer>15</integer>
+								<key>Stats</key>
+								<string>M6•WS4•BS1•S5•T4•W3•I5•A4•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<integer>-1</integer>
+								<key>Name</key>
+								<string>Packmaster</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>8</integer>
+								<key>Special Rules</key>
+								<string>Scurry Away!; Mixed Unit; Running with the Pack</string>
+								<key>Stats</key>
+								<string>M6•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>30</real>
+										<key>Name</key>
+										<string>Scavenge-pile items and Clan Moulder Beast-prods</string>
+									</dict>
+								</array>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Master Moulder</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; whip</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>great weapon</string>
+											<key>Points</key>
+											<integer>4</integer>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>things-catcher</string>
+											<key>Points</key>
+											<integer>20</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>33</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I5•A2•Ld6</string>
+							</dict>
+							<dict>
+								<key>Additional</key>
+								<true/>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Skweel Gnawtooth</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>light armour; hand weapon; warp-lash</string>
+											<key>Points</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>108</integer>
+								<key>Special Rules</key>
+								<string>Verminous Valour; Exceptional Pack; Mixed Unit; Verminous Bodyguard</string>
+								<key>Stats</key>
+								<string>M6•WS5•BS3•S4•T4•W2•I6•A2•Ld6</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>claws and savagery</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>Rat Ogres</string>
+					<key>Notes</key>
+					<string>1 Packmaster per 2 Rat Ogres.</string>
+					<key>Points</key>
+					<integer>40</integer>
+					<key>Size</key>
+					<integer>2</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Mixed Unit; Beast Pack; Fear; Frenzy; Monstrous Infantry</string>
+					<key>Stats</key>
+					<string>M6•WS3•BS1•S5•T4•W3•I4•A3•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Bringer-of-the-Word</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T4•W1•I3•A2•Ld5</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<integer>5</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string>Magic Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<integer>10</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>2 hand weapons</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Plague Monks</string>
+					<key>Points</key>
+					<integer>7</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Frenzy</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T4•W1•I3•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Plague Chanter</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T4•W1•I3•A3•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>plague censer</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Plague Censer Bearers</string>
+					<key>Points</key>
+					<integer>16</integer>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Strength in Numbers; Frenzy; Hatred; Plague Disciples; Skirmish</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T4•W1•I3•A2•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Sharpshooter</string>
+								<key>Points</key>
+								<integer>10</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS4•S3•T3•W1•I3•A2•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; jezzail; pavise</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>-1</integer>
+					<key>Minimum Size</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>Warplock Jezzails</string>
+					<key>Points</key>
+					<integer>20</integer>
+					<key>Size</key>
+					<integer>3</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Stength in Numbers</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>hand weapon; heavy armour</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Poisoned Wind Mortar</string>
+										<key>Points</key>
+										<integer>65</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Weapon Team</string>
+							<key>Notes</key>
+							<string>Only available to half Poisoned Wind Globardiers in army</string>
+							<key>Points</key>
+							<integer>0</integer>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Scurry Away!; Strength in Numbers; Attached Unit</string>
+							<key>Stats</key>
+							<string>M5•WS3•BS3•S3•T3•W1•I3•A2•Ld5</string>
+							<key>Upper Limit</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Bombardier</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Death Globe</string>
+											<key>Points</key>
+											<integer>25</integer>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>5</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS4•S3•T3•W1•I4•A1•Ld5</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon; heavy armour; poisoned wind globes</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>15</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Poisoned Wind Globadiers</string>
+					<key>Points</key>
+					<integer>10</integer>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Scurry Away!; Life is Cheap; Skirmish; Volley from the Back</string>
+					<key>Stats</key>
+					<string>M5•WS3•BS3•S3•T3•W1•I4•A1•Ld5</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.5</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Rare</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>warpstone spikes</string>
+								<key>Points</key>
+								<integer>15</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Hell Pit Abomination</string>
+					<key>Points</key>
+					<integer>235</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Impact Hits (D6); Large Target; Regenerate; Shambling Horror; Special Close Combat Attacks; Stubborn; Terror; Too Horrible To Die</string>
+					<key>Stats</key>
+					<string>M3D6•WS3•BS1•S6•T5•W6•I4•A*•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Warlock and Rats</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M–•WS3•BS3•S2•T–•W–•I4•A2D6•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Doomwheel</string>
+					<key>Points</key>
+					<integer>150</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Armour Save (4+); Grinding Down the Foe; Immune to Psychology; Impact Hits (D6+1); Large Target; Rolling Doom; Terror; Zzzzap!</string>
+					<key>Stats</key>
+					<string>M3D6•WS–•BS–•S6•T6•W5•I–•A*•Ld–</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Engineer and 2 Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T3•W1•I3•A1•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Warp Lightning Cannon</string>
+					<key>Points</key>
+					<integer>90</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine</string>
+					<key>Stats</key>
+					<string>M–•WS–•BS–•S–•T6•W4•I–•A–•Ld–</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>3 Plague Monk Crew</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Frenzy</string>
+								<key>Stats</key>
+								<string>M5•WS3•BS3•S3•T4•W1•I3•A1•Ld7</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>hand weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Plagueclaw Catapult</string>
+					<key>Points</key>
+					<integer>100</integer>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Fume-addled Crew; War Machine</string>
+					<key>Stats</key>
+					<string>M–•WS–•BS–•S–•T6•W4•I–•A–•Ld–</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.25</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>WHFB</string>
+	<key>Version</key>
+	<date>2013-03-21T02:36:10Z</date>
+</dict>
+</plist>
