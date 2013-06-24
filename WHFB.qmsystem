@@ -20,6 +20,8 @@
 					<string>Giant Blade</string>
 					<key>Points</key>
 					<real>60</real>
+					<key>Special Rules</key>
+					<string>Close Combat attacks made with this sword are resolved at +3 Strength.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Sword of Bloodshed</string>
 					<key>Points</key>
 					<real>60</real>
+					<key>Special Rules</key>
+					<string>The wielded has +3 Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -36,6 +40,8 @@
 					<string>Obsidian Blade</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>Armor saves cannot be taken against wounds caused by the Obsidian Blade. </string>
 				</dict>
 				<dict>
 					<key>Category</key>
