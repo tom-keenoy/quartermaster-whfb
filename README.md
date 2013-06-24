@@ -16,4 +16,4 @@ There are a few ways to contribute:
 0. Start by looking at the project roadmap to see what parts have been assigned already. No sense in doing something someone else has already started working on.
 1. Easiest: send typed up paragraphs of item descriptions to qm-template-project (at) gmail (dot) com.
 2. Slightly less easy: open a template in your favorite text editor and add the key and value tags as shown in the demo. Send the file to the same email address listed above.
-3. Nerdly: branch the project, make your edits, request a merge back to the main project. If you have any idea what I just said, then I'd love some help merging edits submitted in the other ways listed above. Holler and we'll talk.
+3. Nerdly: fork the project, make your edits, request a pull back to the main project. If you have any idea what I just said, then I'd love some help merging edits submitted in the other ways listed above. Holler and we'll talk.

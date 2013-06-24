@@ -20,6 +20,8 @@
 					<string>Hellfire Sword</string>
 					<key>Points</key>
 					<real>65</real>
+					<key>Special Rules</key>
+					<string>Close combat attacks made with the Hellfire Sword have the Flaming Attacks and Multiple Wounds (D3) special rules. No armor saves can be taken against Wounds caused by the Hellfire Sword. After all close combat blows have been struck, roll a D6 for every foe slain by the Hellfire Sword – on the roll of a 6, the slain foe's body explodes, inflicting an additional D6 Strength 4 hits on the enemy unit with the Flaming Attacks special rule. Unsaved Wounds inflicted in this way count towards the combat result. At the end of each of the wielder's turns, roll a D6; on the roll of a 1, he suggers one Wound with no armor saves allowed.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -8298,6 +8300,6 @@
 	<key>System</key>
 	<string>WHFB</string>
 	<key>Version</key>
-	<date>2013-02-18T05:09:53Z</date>
+	<date>2013-06-24T06:17:59Z</date>
 </dict>
 </plist>
