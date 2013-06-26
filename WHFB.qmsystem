@@ -219,6 +219,8 @@
 					<string>Armour of Destiny</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>Heavy Armor. The Armor of Destiny grants the wearer a 4+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -227,6 +229,8 @@
 					<string>Trickster's Helm</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>The wearer counts his armor save as being one point higher than normal. Any successful roll to wound made against the wearer of the Tricster's Helm must be re-rolled.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -235,6 +239,8 @@
 					<string>Armour of Silvered Steel</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string>The Armor of Silvered Steel grants its wearer a 2+ armor save that cannot be improved by any means.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -243,6 +249,8 @@
 					<string>Armour of Fortune</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string>Heavy Armor. The Armor of Fortune grants the wearer a 5+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -251,6 +259,8 @@
 					<string>Helm of Discord</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string>The wearer counts his armor save as being one point higher than normal. In addition, at the start of each Close Combat phase, choose an enemy character in base contact with the bearer or his unit. That character must immediately take a Leadership test. If the test is failed, the character succumbs to the helm's sibilant whispers of malice and jealousy. In this Close Combat phase, the victim cannot make attacks and is hit automatically.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -259,6 +269,8 @@
 					<string>Glittering Scales</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string>Light armor. Enemies suffer a -1 to hit penalty when attempting to strike the wearer in close combat.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -267,6 +279,8 @@
 					<string>Shield of Ptolos</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string>Shield. The bearer has a 1+ armor save against shooting attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -275,6 +289,8 @@
 					<string>Spellshield</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string>Shield. The bearer gains Magic Resistance (1).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -283,6 +299,8 @@
 					<string>Gambler's Armour</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string>Heavy armor. The Gambler's Armor grants the wearer a 6+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -291,6 +309,8 @@
 					<string>Dragonhelm</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string>The wearer counts his armor save as being one point higher than normal. The wearer has a 2+ ward save against flaming attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -299,6 +319,8 @@
 					<string>Enchanted Shield</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string>Shield. The berer counts his armor save as being two points higher than normal, rather than the usual one point that a shield would normally grant.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -307,6 +329,8 @@
 					<string>Charmed Shield</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string>Shield. One use only. The first hit suffered by the bearer of the Charmed Shield is discounted on a roll of 2+.</string>
 				</dict>
 			</array>
 		</dict>
