@@ -61,7 +61,7 @@
 					<key>Points</key>
 					<real>40</real>
 					<key>Special Rules</key>
-					<string>The wielded has +2 Attacks.</string>
+					<string>The wielder has +2 Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -81,7 +81,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string>The wielded has +1 Strength and +1 Attack for every enemy character in contact with him or his unit. These bonuses are calculated at the start of each round of close combat and last until its end.</string>
+					<string>The wielder has +1 Strength and +1 Attack for every enemy character in contact with him or his unit. These bonuses are calculated at the start of each round of close combat and last until its end.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -101,7 +101,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string>The wielded of the Sword of Swift Slaying has the Always Strikes First special rule.</string>
+					<string>The wielder of the Sword of Swift Slaying has the Always Strikes First special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -111,7 +111,7 @@
 					<key>Points</key>
 					<real>20</real>
 					<key>Special Rules</key>
-					<string>The wielded has +1 Attacks.</string>
+					<string>The wielder has +1 Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -348,6 +348,8 @@
 					<string>Talisman of Preservation</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string>Grants the bearer a 4+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -356,6 +358,8 @@
 					<string>Obsidian Lodestone</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string>Grants Magic Resistance (3).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -364,6 +368,8 @@
 					<string>Talisman of Endurance</string>
 					<key>Points</key>
 					<real>30</real>
+                                       <key>Special Rules</key>
+					<string>Grants the bearer a 5+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -372,7 +378,9 @@
 					<string>Obsidian Amulet</string>
 					<key>Points</key>
 					<real>30</real>
-				</dict>
+				        <key>Special Rules</key>
+					<string>Grants the bearer Magic Resistance (3).</string>
+</dict>
 				<dict>
 					<key>Category</key>
 					<string>Talisman</string>
@@ -380,6 +388,8 @@
 					<string>Dawnstone</string>
 					<key>Points</key>
 					<real>25</real>
+                                        <key>Special Rules</key>
+					<string>The bearer re-rolls failed armour saves.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -388,6 +398,8 @@
 					<string>Opal Amulet</string>
 					<key>Points</key>
 					<real>15</real>
+                                        <key>Special Rules</key>
+					<string>One use only. Bestows a 4+ ward save against the 1st wound suffered by the bearer.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -396,6 +408,8 @@
 					<string>Obsidian Trinket</string>
 					<key>Points</key>
 					<real>15</real>
+                                        <key>Special Rules</key>
+					<string>grants Magic Resistance (1).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -404,6 +418,8 @@
 					<string>Talisman of Protection</string>
 					<key>Points</key>
 					<real>15</real>
+                                        <key>Special Rules</key>
+					<string>Grants the bearer a 6+ ward save.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -412,6 +428,8 @@
 					<string>Seed of Rebirth</string>
 					<key>Points</key>
 					<real>10</real>
+                                        <key>Special Rules</key>
+					<string>The bearer has the Regeneration (6+) special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -420,6 +438,8 @@
 					<string>Dragonbane Gem</string>
 					<key>Points</key>
 					<real>5</real>
+                                        <key>Special Rules</key>
+					<string>The bearer has a 2+ ward save against flaming attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -428,6 +448,8 @@
 					<string>Pidgeon Plucker Pendant</string>
 					<key>Points</key>
 					<real>5</real>
+                                        <key>Special Rules</key>
+					<string>Grants the bearer a 5+ ward save against wounds caused in close combat by models that have the Fly special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -436,6 +458,8 @@
 					<string>Luckstone</string>
 					<key>Points</key>
 					<real>5</real>
+                                        <key>Special Rules</key>
+					<string>One use only. Allows the bearer to re-roll a single failed armour save.</string>
 				</dict>
 			</array>
 		</dict>
