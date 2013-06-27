@@ -12,7 +12,7 @@ Note that Quartermaster templates are NOT a substitute for buying the Army Book.
 
 There are a few ways to contribute:
 
-  1. Start by looking at the [project roadmap](https://github.com/tom-keenoy/quartermaster-whfb/wiki/Project-Roadmap) to see what parts have been assigned already. No sense in doing something someone else has already started working on.
+  1. Start by looking at the [project roadmap](https://github.com/tom-keenoy/quartermaster-whfb/wiki/Project-Roadmap) to see what parts have been assigned already. No sense in doing something someone else has already started working on. Also look on [this thread on TWF](http://warhammer.org.uk/phpBB/viewtopic.php?f=3&t=115216&p=1379998#p1379998) to see if someone has started a section before jumping in.
   2. Easiest: send typed up paragraphs of item descriptions to qmtemplateproject (at) gmail (dot) com.
   3. Slightly less easy: open a template in your favorite text editor and add the key and value tags as shown in the demo. Send the file to the same email address listed above.
   4. Nerdly: fork the project, make your edits, request a pull back to the main project. If you have any idea what I just said, then I'd love some help merging edits submitted in the other ways listed above. Holler and we'll talk.
