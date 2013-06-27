@@ -368,7 +368,7 @@
 					<string>Talisman of Endurance</string>
 					<key>Points</key>
 					<real>30</real>
-                                       <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>Grants the bearer a 5+ ward save.</string>
 				</dict>
 				<dict>
@@ -378,9 +378,9 @@
 					<string>Obsidian Amulet</string>
 					<key>Points</key>
 					<real>30</real>
-				        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>Grants the bearer Magic Resistance (3).</string>
-</dict>
+				</dict>
 				<dict>
 					<key>Category</key>
 					<string>Talisman</string>
@@ -388,7 +388,7 @@
 					<string>Dawnstone</string>
 					<key>Points</key>
 					<real>25</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>The bearer re-rolls failed armour saves.</string>
 				</dict>
 				<dict>
@@ -398,7 +398,7 @@
 					<string>Opal Amulet</string>
 					<key>Points</key>
 					<real>15</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>One use only. Bestows a 4+ ward save against the 1st wound suffered by the bearer.</string>
 				</dict>
 				<dict>
@@ -408,7 +408,7 @@
 					<string>Obsidian Trinket</string>
 					<key>Points</key>
 					<real>15</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>grants Magic Resistance (1).</string>
 				</dict>
 				<dict>
@@ -418,7 +418,7 @@
 					<string>Talisman of Protection</string>
 					<key>Points</key>
 					<real>15</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>Grants the bearer a 6+ ward save.</string>
 				</dict>
 				<dict>
@@ -428,7 +428,7 @@
 					<string>Seed of Rebirth</string>
 					<key>Points</key>
 					<real>10</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>The bearer has the Regeneration (6+) special rule.</string>
 				</dict>
 				<dict>
@@ -438,7 +438,7 @@
 					<string>Dragonbane Gem</string>
 					<key>Points</key>
 					<real>5</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>The bearer has a 2+ ward save against flaming attacks.</string>
 				</dict>
 				<dict>
@@ -448,7 +448,7 @@
 					<string>Pidgeon Plucker Pendant</string>
 					<key>Points</key>
 					<real>5</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>Grants the bearer a 5+ ward save against wounds caused in close combat by models that have the Fly special rule.</string>
 				</dict>
 				<dict>
@@ -458,7 +458,7 @@
 					<string>Luckstone</string>
 					<key>Points</key>
 					<real>5</real>
-                                        <key>Special Rules</key>
+					<key>Special Rules</key>
 					<string>One use only. Allows the bearer to re-roll a single failed armour save.</string>
 				</dict>
 			</array>
@@ -477,6 +477,8 @@
 					<string>Book of Ashur</string>
 					<key>Points</key>
 					<real>70</real>
+					<key>Special Rules</key>
+					<string>The bearer receives a +1 bonus on attempts to cast and dispel.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -485,6 +487,8 @@
 					<string>Feedback Scroll</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>One use only. When an enemy spell has been cast, a Wizard who has a feedback scroll can read it instead of attempting to dispel the spell. The spell is cast as normal, but after the spell has been resolved, roll a dice for every dice used to cast the spell. The casting Wizard takes a wound for every result of 5+ rolled, with no armour saves allowed.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -493,6 +497,8 @@
 					<string>Scroll of Leeching</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>One use only. When an enemy spell has been cast. A Wizard who has a Scroll of Leeching can read it instead of attempting to dispel the spell. The spell is cast as normal, but after the spell has been resolved, the bearer of the scroll adds a number of dispel dice to his pool equal to the number of dice used to cast the spell (remember that your dispel pool cannot exceed 12 dice).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -501,6 +507,8 @@
 					<string>Sivejir's Hex Scroll</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>One use only. When an enemy spell has been cast. A wizard who has a Hex Scroll can read it instead of attempting to dispel the spell. The spell is cast as normal, but a portion of the spell’s energy is transformed and redirected at the caster. The enemy wizard can resist the spell’s effects by rolling equal or under his wizard level on a D6. If he fails an amphibian transformation takes hold and he becomes a small, slimy toad! Whilst transformed, the wizard cannot chanel or cast spells, all of his magic items and mundane equipment (armour, weapons etc) temporarily stop working and al of his characteristics are reduced to 1 (except for his wounds, which are unaffected). His controlling player can roll a D6 at the start of each of his subsequent magic phases; the spell dissipates on a roll of 4+ and the wizard returns to his normal form (but still attempts to eat flies for several days afterward).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -509,6 +517,8 @@
 					<string>Power Scroll</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -517,6 +527,8 @@
 					<string>Wand of Jet</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -525,6 +537,8 @@
 					<string>Forbidden Rod</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -533,6 +547,8 @@
 					<string>Trickster's Shard</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -541,6 +557,8 @@
 					<string>Earthing Rod</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -549,6 +567,8 @@
 					<string>Dispel Scroll</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -557,6 +577,8 @@
 					<string>Power Stone</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -565,6 +587,8 @@
 					<string>Sceptre of Stability</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -573,6 +597,8 @@
 					<string>Channelling Staff</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -581,6 +607,8 @@
 					<string>Scroll of Shielding</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -598,6 +626,8 @@
 					<string>Wizarding Hat</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -606,6 +636,8 @@
 					<string>Fozzrik's Folding Fortress</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -614,6 +646,8 @@
 					<string>Arabyan Carpet</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -622,6 +656,8 @@
 					<string>Crown of Command</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -630,6 +666,8 @@
 					<string>Healing Potion</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -638,6 +676,8 @@
 					<string>Featherfoe Torc</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -646,6 +686,8 @@
 					<string>Ruby Ring of Ruin</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -654,6 +696,8 @@
 					<string>The Terrifying Mask of Eee!</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -662,6 +706,8 @@
 					<string>Potion of Strength</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -670,6 +716,8 @@
 					<string>Potion of Toughness</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -678,6 +726,8 @@
 					<string>The Other Trickster's Shard</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -686,6 +736,8 @@
 					<string>Ironcurse Icon</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -694,6 +746,8 @@
 					<string>Potion of Foolhardiness</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -702,6 +756,8 @@
 					<string>Potion of Speed</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -719,6 +775,8 @@
 					<string>Rampager's Standard</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string>A unit with this magic standard can re-roll its charge distance dice.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -727,6 +785,8 @@
 					<string>Wailing Banner</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>A unit with this banner causes Terror in its enemies.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -735,6 +795,8 @@
 					<string>Ranger's Standard</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string>A unit with the Ranger’s Standard has the Strider special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -743,6 +805,8 @@
 					<string>Razor Standard</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string>Models in a unit with the Razor Standard have the Armour Piercing special rule</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -751,6 +815,8 @@
 					<string>War Banner</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string>A unit with this banner adds +1 to combat resolution</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -759,6 +825,8 @@
 					<string>Banner of Swiftness</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string>Models in a unit with the banner of swiftness have +1 to their movement characteristic</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -767,6 +835,8 @@
 					<string>Lichebone Pennant</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string>Models in a unit with the Lichebone Pennant have Magic Resistance (1)</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -775,6 +845,8 @@
 					<string>Standard of Discipline</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string>Models in a unit with the standard of Discipline have +1 leadership, but cannot use the General’s Inspiring Presence Special Rule</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -783,6 +855,8 @@
 					<string>Banner of Eternal Flame</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string>Models in a unit with the Banner of Eternal Flame have Flaming Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -791,6 +865,8 @@
 					<string>Gleaming Pennant</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string>One use only. A unit with the Gleaming Pennant can re-roll its first failed Leadership test.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -799,6 +875,8 @@
 					<string>Scarecrow Banner</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string>A unit with the Scarecrow Banner causes Fear in models with the Fly special rule.</string>
 				</dict>
 			</array>
 		</dict>
