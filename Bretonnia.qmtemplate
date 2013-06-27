@@ -20,6 +20,8 @@
 					<string>Sword of Striking</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Sword of Battle</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -36,6 +40,8 @@
 					<string>Sword of Might</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -44,6 +50,8 @@
 					<string>Biting Blade</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -52,6 +60,8 @@
 					<string>The Silver Lance of the Blessed</string>
 					<key>Points</key>
 					<real>65</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -60,6 +70,8 @@
 					<string>Sword of the Quest</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -68,6 +80,8 @@
 					<string>Sword of the Lady's Champion</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -76,6 +90,8 @@
 					<string>Sword of Heroes</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -84,6 +100,8 @@
 					<string>The Heartwood Lance</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -92,6 +110,8 @@
 					<string>Birth-sword of Carcassonne</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -100,6 +120,8 @@
 					<string>Morning Star of Fracasse</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -108,6 +130,8 @@
 					<string>The Lance of Artois</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -116,6 +140,8 @@
 					<string>The Wyrmlance</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -133,6 +159,8 @@
 					<string>Enchanted Shield</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -141,6 +169,8 @@
 					<string>Guilded Cuirass</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -149,6 +179,8 @@
 					<string>Armour of the Midsummer Sun</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -157,6 +189,8 @@
 					<string>The Grail Shield</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -165,6 +199,8 @@
 					<string>Gromril Great Helm</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -173,6 +209,8 @@
 					<string>Armour of Agilulf</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -181,6 +219,8 @@
 					<string>Cuirass of Fortune</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -189,6 +229,8 @@
 					<string>Orcbane Shield</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -206,6 +248,8 @@
 					<string>Talisman of Protection</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -214,6 +258,8 @@
 					<string>Sirienne's Locket</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -222,6 +268,8 @@
 					<string>Token of the Damsel</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -230,6 +278,8 @@
 					<string>Insignia of the Quest</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -238,6 +288,8 @@
 					<string>Braid of Bordeleaux</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -246,6 +298,8 @@
 					<string>Dragon's Claw</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -254,6 +308,8 @@
 					<string>Mantle of Damsel Elena</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -271,6 +327,8 @@
 					<string>Staff of Sorcery</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -279,6 +337,8 @@
 					<string>Dispel Scroll</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -287,6 +347,8 @@
 					<string>Power Stone</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -295,6 +357,8 @@
 					<string>The Silver Mirror</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -303,6 +367,8 @@
 					<string>Sacrament of the Lady</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -311,6 +377,8 @@
 					<string>The Verdant Heart</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -319,6 +387,8 @@
 					<string>Prayer Icon of Quenelles</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -327,6 +397,8 @@
 					<string>Calice of Malfleur</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -335,6 +407,8 @@
 					<string>Potion Sacre</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -352,6 +426,8 @@
 					<string>Falcon-horn of Fredemund</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -360,6 +436,8 @@
 					<string>Holy Icon</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -368,6 +446,8 @@
 					<string>The Ruby Goblet</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -376,6 +456,8 @@
 					<string>The Mane of the Purebreed</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -384,6 +466,8 @@
 					<string>Antlers of the Great Hunt</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -392,6 +476,8 @@
 					<string>Tress of Isoulde</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -400,6 +486,8 @@
 					<string>Gauntlet of the Duel</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -417,6 +505,8 @@
 					<string>Banner of the Lady</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -425,6 +515,8 @@
 					<string>Valorous Standard</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -433,6 +525,8 @@
 					<string>Banner of Defence</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -441,6 +535,8 @@
 					<string>Twilight Banner</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -449,6 +545,8 @@
 					<string>Conqueror's Tapestry</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -457,6 +555,8 @@
 					<string>Errantry Banner</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -465,6 +565,8 @@
 					<string>Banner of Châlons</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -473,6 +575,8 @@
 					<string>War Banner</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -490,6 +594,8 @@
 					<string>Virtue of the Penitent</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -498,6 +604,8 @@
 					<string>Virtue of Knightly Temper</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -506,6 +614,8 @@
 					<string>Virtue of Heroism</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -514,6 +624,8 @@
 					<string>Virtue of Stoicism</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -522,6 +634,8 @@
 					<string>Vrtue of the Ideal</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -530,6 +644,8 @@
 					<string>Virtue of the Impetuous Knight</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -538,6 +654,8 @@
 					<string>Virtue of Audacity</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -546,6 +664,8 @@
 					<string>Virtue of Duty</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -554,6 +674,8 @@
 					<string>Virtue of the Joust</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -562,6 +684,8 @@
 					<string>Virtue of Confidence</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -570,6 +694,8 @@
 					<string>Virtue of Noble Disdain</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -578,6 +704,8 @@
 					<string>Vitue of Purity</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -586,6 +714,8 @@
 					<string>Virtue of Discipline</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -594,6 +724,8 @@
 					<string>Virtue of Empathy</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

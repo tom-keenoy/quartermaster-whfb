@@ -20,6 +20,8 @@
 					<string>Sword of Striking</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Sword of Battle</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -36,6 +40,8 @@
 					<string>Sword of Might</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -44,6 +50,8 @@
 					<string>Biting Blade</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -52,6 +60,8 @@
 					<string>The Blade of Realities</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -60,6 +70,8 @@
 					<string>Blade of Revered Tzunki</string>
 					<key>Points</key>
 					<real>65</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -68,6 +80,8 @@
 					<string>Scimitar of the Sun Resplendent</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -76,6 +90,8 @@
 					<string>Stegadon War-spear</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -84,6 +100,8 @@
 					<string>Staff of the Lost Sun</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -92,6 +110,8 @@
 					<string>Piranha Blade</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -100,6 +120,8 @@
 					<string>Dagger of Sotek</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -108,6 +130,8 @@
 					<string>Sword of the Hornet</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -116,6 +140,8 @@
 					<string>Burning Blade of Chotec</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -133,6 +159,8 @@
 					<string>Enchanted Shield</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -141,6 +169,8 @@
 					<string>Hide of the Cold Ones</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -149,6 +179,8 @@
 					<string>Sacred Stegadon Helm</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -157,6 +189,8 @@
 					<string>Shield of the Mirrored Pool</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -165,6 +199,8 @@
 					<string>The Maiming Shield</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -182,6 +218,8 @@
 					<string>Talisman of Protection</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -190,6 +228,8 @@
 					<string>Aura of Quetzl</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -198,6 +238,8 @@
 					<string>Glyph Necklace</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -206,6 +248,8 @@
 					<string>Amulet of Itzl</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -223,6 +267,8 @@
 					<string>Staff of Sorcery</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -231,6 +277,8 @@
 					<string>Dispel Scroll</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -239,6 +287,8 @@
 					<string>Power Stone</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -247,6 +297,8 @@
 					<string>Cupped Hands of the Old Ones</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -255,6 +307,8 @@
 					<string>Cube of Darkness</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -263,6 +317,8 @@
 					<string>Rod of the Storm</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -271,6 +327,8 @@
 					<string>Diadem of Power</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -279,6 +337,8 @@
 					<string>Itxi Grubs</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -287,6 +347,8 @@
 					<string>Plaque of Tepok</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -304,6 +366,8 @@
 					<string>The Horn of Kygor</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -312,6 +376,8 @@
 					<string>Horned One</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -320,6 +386,8 @@
 					<string>Divine Plaque of Protection</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -328,6 +396,8 @@
 					<string>War Drum of Xahutec</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -336,6 +406,8 @@
 					<string>Blood Statuette of Spite</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -344,6 +416,8 @@
 					<string>Charm of the Jaguar Warrior</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -352,6 +426,8 @@
 					<string>Cloak of Feathers</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -360,6 +436,8 @@
 					<string>Carnosaur Pendant</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -368,6 +446,8 @@
 					<string>Curse-Charm of Tepok</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -376,6 +456,8 @@
 					<string>Bane Head</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -384,6 +466,8 @@
 					<string>Dragonfly of Quicksilver</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -392,6 +476,8 @@
 					<string>Venom of the Firefly Frog</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -409,6 +495,8 @@
 					<string>War Banner</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -417,6 +505,8 @@
 					<string>Totem of Prophecy</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -425,6 +515,8 @@
 					<string>Plaque of Dominion</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -433,6 +525,8 @@
 					<string>Sun Standard of Chotec</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -441,6 +535,8 @@
 					<string>Huanchi's Blessed Totem</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -449,6 +545,8 @@
 					<string>Jaguar Standard</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -457,6 +555,8 @@
 					<string>Skavenpelt Banner</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -474,6 +574,8 @@
 					<string>Focus of Mystery</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -482,6 +584,8 @@
 					<string>Focus of Mystery</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -490,6 +594,8 @@
 					<string>The Focused Rumination</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -498,6 +604,8 @@
 					<string>The Focused Rumination</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -506,6 +614,8 @@
 					<string>Transcendent Healing</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -514,6 +624,8 @@
 					<string>Transcendent Healing</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -522,6 +634,8 @@
 					<string>The Harrowing Scrutiny</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -530,6 +644,8 @@
 					<string>The Harrowing Scrutiny</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -538,6 +654,8 @@
 					<string>Higher State of Consciousness</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -546,6 +664,8 @@
 					<string>Higher State of Consciousness</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -554,6 +674,8 @@
 					<string>The Becalming Cogitation</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -562,6 +684,8 @@
 					<string>The Becalming Cogitation</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -570,6 +694,8 @@
 					<string>Unfathomable Presence</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -578,6 +704,8 @@
 					<string>Unfathomable Presence</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -586,6 +714,8 @@
 					<string>Soul of Stone</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -594,6 +724,8 @@
 					<string>Soul of Stone</string>
 					<key>Points</key>
 					<real>0.0</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

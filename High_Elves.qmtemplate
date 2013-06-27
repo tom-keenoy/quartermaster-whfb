@@ -20,6 +20,8 @@
 					<string>The Blade of Leaping Gold</string>
 					<key>Points</key>
 					<real>70</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Star Lance</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -36,6 +40,8 @@
 					<string>The Reaver Bow</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -53,6 +59,8 @@
 					<string>Armour of Caledor</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -61,6 +69,8 @@
 					<string>Shadow Armour</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -69,6 +79,8 @@
 					<string>Shield of the Merwyrm</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -86,6 +98,8 @@
 					<string>Golden Crown of Atrazar</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -103,6 +117,8 @@
 					<string>Book of Hoeth</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -120,6 +136,8 @@
 					<string>Moranion's Wayshard</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -128,6 +146,8 @@
 					<string>Khaine's Ring of Fury</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -136,6 +156,8 @@
 					<string>Gem of Sunfire</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -144,6 +166,8 @@
 					<string>Cloak of Beards</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -161,6 +185,8 @@
 					<string>Banner of the World Dragon</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -169,6 +195,8 @@
 					<string>Banner of Avelorn</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

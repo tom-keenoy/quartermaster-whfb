@@ -20,6 +20,8 @@
 					<string>Skabscrath</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -37,6 +39,8 @@
 					<string>Nightshroud</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -62,6 +66,8 @@
 					<string>Black Periapt</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -70,6 +76,8 @@
 					<string>Staff of Damnation</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -78,6 +86,8 @@
 					<string>The Cursed Book</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -86,6 +96,8 @@
 					<string>Book of Arkhan</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -103,6 +115,8 @@
 					<string>Rod of Flaming Death</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -120,6 +134,8 @@
 					<string>Banner of the Barrows</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -128,6 +144,8 @@
 					<string>The Screaming Banner</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -145,6 +163,8 @@
 					<string>Master of the Black Arts</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -153,6 +173,8 @@
 					<string>Curse of the Revenant</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -161,6 +183,8 @@
 					<string>Red Fury</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -169,6 +193,8 @@
 					<string>Flying Horror</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -177,6 +203,8 @@
 					<string>Quickblood</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -185,6 +213,8 @@
 					<string>Aura of Dark Majesty</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -193,6 +223,8 @@
 					<string>Dark Acolyte</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -201,6 +233,8 @@
 					<string>Forbidden Lore</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -209,6 +243,8 @@
 					<string>Supernatural Horror</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -217,6 +253,8 @@
 					<string>Fear Incarnate</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -225,6 +263,8 @@
 					<string>Beguile</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -233,6 +273,8 @@
 					<string>Master Strike</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -241,6 +283,8 @@
 					<string>Summon Creatures of the Night</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -249,6 +293,8 @@
 					<string>Dread Knight</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

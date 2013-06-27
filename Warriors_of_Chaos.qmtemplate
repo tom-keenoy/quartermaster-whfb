@@ -30,6 +30,8 @@
 					<string>Sword of Change</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -38,6 +40,8 @@
 					<string>Filth Mace</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -55,6 +59,8 @@
 					<string>Helm of Many Eyes</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -80,6 +86,8 @@
 					<string>Skull of Katam</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -97,6 +105,8 @@
 					<string>Pendant of Slaanesh</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -105,6 +115,8 @@
 					<string>Chalice of Chaos</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -122,6 +134,8 @@
 					<string>Blasted Standard</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -130,6 +144,8 @@
 					<string>Banner of Rage</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -147,6 +163,8 @@
 					<string>Daemonblade</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -155,6 +173,8 @@
 					<string>Collar of Khorne</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -163,6 +183,8 @@
 					<string>Unholy Strike</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -171,6 +193,8 @@
 					<string>Flaming Breath</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -179,6 +203,8 @@
 					<string>Chaos Familiar</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -187,6 +213,8 @@
 					<string>Scaled Skin</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -195,6 +223,8 @@
 					<string>Allure of Slaanesh</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -203,6 +233,8 @@
 					<string>Poisonous Slime</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -211,6 +243,8 @@
 					<string>Acid Ichor</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -219,6 +253,8 @@
 					<string>Burning Body</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -227,6 +263,8 @@
 					<string>Soul Feeder</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -235,6 +273,8 @@
 					<string>Third Eye of Tzeentch</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -243,6 +283,8 @@
 					<string>Nurgle's Rot</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -251,6 +293,8 @@
 					<string>Hideous Visage</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

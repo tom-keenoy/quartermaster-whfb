@@ -20,6 +20,8 @@
 					<string>Runefang</string>
 					<key>Points</key>
 					<real>85</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>The Mace of Helsturm</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -45,6 +49,8 @@
 					<string>The Armour of Meteoric Iron</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -53,6 +59,8 @@
 					<string>Helm of the Skavenslayer</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -70,6 +78,8 @@
 					<string>The White Cloak of Ulric</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -95,6 +105,8 @@
 					<string>Van Horstmann's Speculum</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -103,6 +115,8 @@
 					<string>Ring of Volans</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -120,6 +134,8 @@
 					<string>Griffon Banner</string>
 					<key>Points</key>
 					<real>60</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -128,6 +144,8 @@
 					<string>Steel Standard</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

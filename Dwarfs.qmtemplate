@@ -20,6 +20,8 @@
 					<string>Master Rune of Skalf Blackhammer</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Master Rune of Smiting</string>
 					<key>Points</key>
 					<real>70</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -36,6 +40,8 @@
 					<string>Master Rune of Alaric The Mad</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -44,6 +50,8 @@
 					<string>Master Rune of Breaking</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -52,6 +60,8 @@
 					<string>Master Rune of Flight</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -60,6 +70,8 @@
 					<string>Rune of Might</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -68,6 +80,8 @@
 					<string>Master Rune of Swiftness</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -76,6 +90,8 @@
 					<string>Rune of Snorri Spangelhelm</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -84,6 +100,8 @@
 					<string>Rune of Fury</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -92,6 +110,8 @@
 					<string>Rune of Cleaving</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -100,6 +120,8 @@
 					<string>Master Rune of Kragg the Grim</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -108,6 +130,8 @@
 					<string>Grudge Rune</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -116,6 +140,8 @@
 					<string>Rune of Striking</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -124,6 +150,8 @@
 					<string>Rune of Speed</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -132,6 +160,8 @@
 					<string>Rune of Fire</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -149,6 +179,8 @@
 					<string>Master Rune of Steel</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -157,6 +189,8 @@
 					<string>Rune of Fortitude</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -165,6 +199,8 @@
 					<string>Master Rune of Adamant</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -173,6 +209,8 @@
 					<string>Master Rune of Gromril</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -181,6 +219,8 @@
 					<string>Rune of Shielding</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -189,6 +229,8 @@
 					<string>Rune of Resistance</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -197,6 +239,8 @@
 					<string>Rune of Iron</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -205,6 +249,8 @@
 					<string>Rune of Preservation</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -213,6 +259,8 @@
 					<string>Rune of Stone</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -230,6 +278,8 @@
 					<string>Master Rune of Valaya</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -238,6 +288,8 @@
 					<string>Master Rune of Stromni Redbeard</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -246,6 +298,8 @@
 					<string>Master Rune of Fear</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -254,6 +308,8 @@
 					<string>Strollaz's Rune</string>
 					<key>Points</key>
 					<real>55</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -262,6 +318,8 @@
 					<string>Master Rune of Grungni</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -270,6 +328,8 @@
 					<string>Rune of Slowness</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -278,6 +338,8 @@
 					<string>Rune of Courage</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -286,6 +348,8 @@
 					<string>Rune of Guarding</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -294,6 +358,8 @@
 					<string>Rune of Battle</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -302,6 +368,8 @@
 					<string>Rune of Stoicism</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -310,6 +378,8 @@
 					<string>Rune of Determination</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -318,6 +388,8 @@
 					<string>Rune of Sanctuary</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -326,6 +398,8 @@
 					<string>Ancestor Rune</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -343,6 +417,8 @@
 					<string>Master Rune of Kingship</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -351,6 +427,8 @@
 					<string>Master Rune of Balance</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -359,6 +437,8 @@
 					<string>Master Rune of Spellbinding</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -367,6 +447,8 @@
 					<string>Spelleater Rune</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -375,6 +457,8 @@
 					<string>Master Rune of Spite</string>
 					<key>Points</key>
 					<real>45</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -383,6 +467,8 @@
 					<string>Rune of Fate</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -391,6 +477,8 @@
 					<string>Master Rune of Challenge</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -399,6 +487,8 @@
 					<string>Master Rune of Dismay</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -407,6 +497,8 @@
 					<string>Rune of Spellbreaking</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -415,6 +507,8 @@
 					<string>Rune of Brotherhood</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -423,6 +517,8 @@
 					<string>Rune of Luck</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -431,6 +527,8 @@
 					<string>Rune of Warding</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -439,6 +537,8 @@
 					<string>Rune of the Furnace</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -456,6 +556,8 @@
 					<string>Master Rune of Defence</string>
 					<key>Points</key>
 					<real>40</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -464,6 +566,8 @@
 					<string>Rune of Forging</string>
 					<key>Points</key>
 					<real>35</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -472,6 +576,8 @@
 					<string>Master Rune of Disguise</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -480,6 +586,8 @@
 					<string>Master Rune of Immolation</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -488,6 +596,8 @@
 					<string>Master Rune of Skewering</string>
 					<key>Points</key>
 					<real>30</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -496,6 +606,8 @@
 					<string>Rune of Accuracy</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -504,6 +616,8 @@
 					<string>Rune of Fortune</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -512,6 +626,8 @@
 					<string>Rune of Penetrating</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -520,6 +636,8 @@
 					<string>Valiant Rune</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -528,6 +646,8 @@
 					<string>Stalwart Rune</string>
 					<key>Points</key>
 					<real>20</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -536,6 +656,8 @@
 					<string>Flakkson's Rune of Seeking</string>
 					<key>Points</key>
 					<real>15</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -544,6 +666,8 @@
 					<string>Rune of Reloading</string>
 					<key>Points</key>
 					<real>10</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -552,6 +676,8 @@
 					<string>Rune of Burning</string>
 					<key>Points</key>
 					<real>5</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

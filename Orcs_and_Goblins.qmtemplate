@@ -20,6 +20,8 @@
 					<string>Battleaxe of the Last Waaagh!</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Basha's Axe of Stunty Smashin'</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -45,6 +49,8 @@
 					<string>Armour of Gork</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -70,6 +76,8 @@
 					<string>Lucky Shrunken Head</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -87,6 +95,8 @@
 					<string>Skull Wand of Kaloth</string>
 					<key>Points</key>
 					<real>75</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -104,6 +114,8 @@
 					<string>Mork's War Banner</string>
 					<key>Points</key>
 					<real>100</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -112,6 +124,8 @@
 					<string>Spider Banner</string>
 					<key>Points</key>
 					<real>85</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -120,6 +134,8 @@
 					<string>The Bad Moon Banner</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

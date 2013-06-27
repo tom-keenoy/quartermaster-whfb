@@ -20,6 +20,8 @@
 					<string>Destroyer of Eternities</string>
 					<key>Points</key>
 					<real>80</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -28,6 +30,8 @@
 					<string>Blade of Antarhak</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -61,6 +65,8 @@
 					<string>Neferra's Scrolls of Mighty Incantations</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -69,6 +75,8 @@
 					<string>Enkhil's Kanopi</string>
 					<key>Points</key>
 					<real>25</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -86,6 +94,8 @@
 					<string>Golden Death Mask of Kharnut</string>
 					<key>Points</key>
 					<real>60</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -94,6 +104,8 @@
 					<string>Cloak of the Dunes</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -111,6 +123,8 @@
 					<string>Standard of the Undying Legion</string>
 					<key>Points</key>
 					<real>50</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -119,6 +133,8 @@
 					<string>Banner of the Hidden Dead</string>
 					<key>Points</key>
 					<real>90</real>
+					<key>Special Rules</key>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
