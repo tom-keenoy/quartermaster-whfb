@@ -681,7 +681,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>35</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Flying creatures (and their riders) must re-roll successful rolls to hit against the bearer (and any unit he is with) in close combat.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -691,7 +691,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Bound spell (power level 3). The Ruby Ring of Ruin contains the Fireball spell (see the Lore of Fire).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -701,7 +701,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The wearer of this mask causes Terror. However, other models can never use his Leadership.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -711,7 +711,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>20</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The Potion of Strength can be drunk at the start of any player's turn. The imbiber has +3 Strength until the end of the turn.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -721,7 +721,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>20</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The Potion of Strength can be drunk at the start of any player's turn. The imbiber has +3 Toughness until the end of the turn.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -731,7 +731,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>15</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Models in base contact with the bearer (friends and foes) must re-roll successful ward saves.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -741,7 +741,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>5</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character (and any unit he is with) gain a 6+ ward save against war machine weapons.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -751,7 +751,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>5</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The Potion of Strength can be drunk at the start of any player's turn. The imbiber has the Immune to Psychology and the Devastating Charge special rules until the end of the turn.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -761,7 +761,7 @@ If you do not have a suitable building to place, you cannot use Fozzrik's Foldin
 					<key>Points</key>
 					<real>5</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The Potion of Strength can be drunk at the start of any player's turn. The imbiber has +3 Initiative until the end of the turn.</string>
 				</dict>
 			</array>
 		</dict>
