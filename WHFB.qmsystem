@@ -547,6 +547,16 @@ Power Scroll.</string>
 					<key>Category</key>
 					<string>Arcane Item</string>
 					<key>Name</key>
+					<string>Staff of Sorcery</string>
+					<key>Points</key>
+					<real>35</real>
+					<key>Special Rules</key>
+					<string>The bearer receives a +1 bonus on attempts to dispel.</string>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
 					<string>Trickster's Shard</string>
 					<key>Points</key>
 					<real>25</real>
