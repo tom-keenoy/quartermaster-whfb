@@ -21,7 +21,7 @@
 					<key>Points</key>
 					<real>70</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The blade of leaping gold grants the wielder +3 attacks. In addition, any roll of 6 to wound made with the blade of leaping gold ignores armour saves.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -31,7 +31,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Mounted character only. The start lance can only be used in a turn in which the bearer makes a successful charge. Attacks with the star lance are resolved at +3 strength, and armour saves cannot be taken against wounds caused by the star lance. If the bearer did not make a successful charge this turn, of if his mount has been slain, he must instead fight with another weapon.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -41,7 +41,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Range 30” Strength +1 Special Rules – Volley fire, multiple shots (3)</string>
 				</dict>
 			</array>
 		</dict>
@@ -60,7 +60,7 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The Armour of Caledor grants the wearer a 2+ armour save that cannot be improved by any means. In addition, the armour of caledor grants the bearer a 6+ ward save and the fireborn special rule</string>
 				</dict>
 				<dict>
 					<key>Category</key>
