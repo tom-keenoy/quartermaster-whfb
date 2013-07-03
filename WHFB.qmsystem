@@ -518,10 +518,7 @@
 					<key>Points</key>
 					<real>35</real>
 					<key>Special Rules</key>
-					<string>One use only. During the casting attempt,
-the casting value of the spell is halved (rounding up). You
-cannot choose to cast a boosted version of aspell when using a
-Power Scroll.</string>
+					<string>One use only. During the casting attempt, the casting value of the spell is halved (rounding up). You cannot choose to cast a boosted version of aspell when using a Power Scroll.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
