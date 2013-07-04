@@ -21,7 +21,7 @@
 					<key>Points</key>
 					<real>70</real>
 					<key>Special Rules</key>
-					<string>The blade of leaping gold grants the wielder +3 attacks. In addition, any roll of 6 to wound made with the blade of leaping gold ignores armour saves.</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -31,7 +31,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string>Mounted character only. The start lance can only be used in a turn in which the bearer makes a successful charge. Attacks with the star lance are resolved at +3 strength, and armour saves cannot be taken against wounds caused by the star lance. If the bearer did not make a successful charge this turn, of if his mount has been slain, he must instead fight with another weapon.</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -41,7 +41,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string>Range 30” Strength +1 Special Rules – Volley fire, multiple shots (3)</string>
+					<string></string>
 				</dict>
 			</array>
 		</dict>
@@ -60,7 +60,7 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string>The Armour of Caledor grants the wearer a 2+ armour save that cannot be improved by any means. In addition, the armour of caledor grants the bearer a 6+ ward save and the fireborn special rule</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -70,7 +70,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Model on foot only. The wearer of the Shadow Armour has a 5+ armour save. In addition, the wearer has both the Scouts and Strider special rules.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -80,7 +80,7 @@
 					<key>Points</key>
 					<real>15</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Shield. Unless he is fighting with a weapon that has the Requires two hands special rule, the bearer of the Shield of the Merwyrm has a parry save of 4+ (even if he’s fighting with a magic weapon).</string>
 				</dict>
 			</array>
 		</dict>
@@ -99,7 +99,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The Golden Crown of Atrazar bestows a 2+ ward save against the first wounding hit suffered by the wearer (which cancels out not only the Wound, but also any Killing Blow or Multiple Wounds special rules the attack has) after which its power fades and it cannot be used again during the game.</string>
 				</dict>
 			</array>
 		</dict>
@@ -118,7 +118,7 @@
 					<key>Points</key>
 					<real>55</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The book of Hoeth allows the bearer to re-roll a single dice from each of his casting or dispel attempts. Results of a 6 cannot be re-rolled.</string>
 				</dict>
 			</array>
 		</dict>
@@ -137,7 +137,7 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Model on foot only. The bearer of Moranion’s Wayshard has the Ambushers special rule. He can also give the Ambushers special rule to a friendly Archers of Spearmen unit, up to 30 models in size and chosen from Warhammer High Elves, immediately before deployment. If he does so, he immediately joins the unit and cannot leave it until the turn after the one in which the combined unit has deployed.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -147,7 +147,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Bound Spell (power level 3) Khaine’s Ring of Fury contains the Soul Quench spell (see lore of High Magic).</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -157,7 +157,7 @@
 					<key>Points</key>
 					<real>20</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. During the turn in which the Gem of Sunfire is used, all of the bearer’s spells, shooting attacks and close combat attacks (and his mount’s if he has one) have a +1 bonus to wound (rolls of a 1 still fail) provided that they also have the Flaming attacks special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -167,7 +167,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The wearer of the Cloak of Beards causes Fear. Against models chosen from Warhammer: Dwarfs, the wearer causes Terror instead. However, all models from Warhammer: Dwarfs gain the hatred special rule while attacking the wearer. In addition, at the start of each close combat phase, roll a D6 for each magic item carried by a model from Warhammer: Dwarfs that is in base contact with the bearer. On a roll of 4+, that magic item is destroyed and cannot be used for the rest of the battle. Note that this has no effect on magic items that are mounts, magic items that contain bound spells that have already miscast during the game, and any magic items labelled as ‘one use only’ that have already been used during the game – do not roll to see if these magic items are destroyed.</string>
 				</dict>
 			</array>
 		</dict>
@@ -186,7 +186,8 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>All models in a unit that carries the banner of the world dragon have a 2+ ward save against all wounds caused by spells, magic weapons and magical attacks. Furthermore all Dragons (friend and foe) within 12” of the Banner of the World Dragon have the stubborn special rule.
+</string>
 				</dict>
 				<dict>
 					<key>Category</key>

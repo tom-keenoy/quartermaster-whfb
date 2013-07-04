@@ -31,7 +31,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>If an enemy character or monster is slain by the Sword of Change in close combat, roll a D6. On the roll of a 4+, the model is transformed into a Chaos Spawn under the control of the owner of the Sword of Change, exactly as if the enemy model were a Chaos Champion that had suffered a Spawndom result on the Eye of the Gods table on page 25.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -41,7 +41,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Models with Mark of Nurgle only. Close combat attacks made with the Filth Mace have the Poisoned Attacks special rule. Once the wielder has killed an enemy model in close combat, he immediately gains the Terror special rule and, from the start of the next Close Combat phase (friend or foe), all subsequent Attacks made with the Filth Mace that result in a successful Poisoned Attack have the Multiple Wounds (D3) special rule.</string>
 				</dict>
 			</array>
 		</dict>
@@ -60,7 +60,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The bearer of the Helm of Many Eyes counts his armor save as being one higher than normal. In addition, the bearer has both the Always Strikes First and Stupidity special rules.</string>
 				</dict>
 			</array>
 		</dict>
@@ -87,7 +87,7 @@
 					<key>Points</key>
 					<real>15</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The bearer of the Skull of Katam can choose to consult it before attempting to channel power dice. If the bearer does so, foll 6 dice instead of 1. If the bearer consulted the Skull of Katam, he suffers a -1 Leadership penalty for the rest of the game for every result of a 1 rolled while channeling - if it is ever reduced to 0, he is immediately removed as a casualty. A wizard with the Mark of Tzeentch may not re-roll channeling results of a 1 when using the Skull of Katam.</string>
 				</dict>
 			</array>
 		</dict>
@@ -106,7 +106,7 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The bearer of the Pendant of Slaanesh can only join units that have the Mark of Slaanesh. No other character may join the same unit as the bearer and he cannot join units that already contain a character. Whenever the bearer, or his unit, take a Break test, it is taken on one less dice than usual (note that a Break test cannot be passed with Insane Courage on a single D6). In addition, for each unsaved wound the bearer suffers, he gainst +1 Attack for the rest of the battle.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -116,7 +116,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>One use only. The bearer of the Chalice of Chaos may drink from it at the start of any phase. If he chooses to do so, roll a D6 and consult the table [in the book]</string>
 				</dict>
 			</array>
 		</dict>
@@ -135,7 +135,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Each time the bearer, or his unit, suffer a hit from a shooting attack, roll a D6 immediately before rolling To Wound. On the roll of 2+, the Strength of that hit is halved. However, if the result is a 1, the Strength of that hit is instead doubled. Attacks that do not roll To Wound, or that wound automatically, are not affected by the Blasted Standard.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -145,7 +145,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The bearer of the Banner of Rage can only join units that are completely comprised of models with the Mark of Khorne. Only Characters that have the Mark of Khorne may join the same unit as the bearer. Whilst the bearer is alive, neither he, nor his unit, can ever lose their Frenzy special rule. If the bearer joins a unit that has lost its Frenzy, the unit immediately regains the Frenzy special rule.</string>
 				</dict>
 			</array>
 		</dict>
@@ -164,7 +164,7 @@
 					<key>Points</key>
 					<real>50</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Magic Weapon. The bearer of the Daemonblade has the Random Attacks (D6+3) special rule. However, every To Hit roll of 1 made by this character in close combat is resolved against himself; the character can never re-roll a To Hit roll of a 1.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -174,7 +174,7 @@
 					<key>Points</key>
 					<real>45</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Talisman. Daemon of Khorne or model with Mark of Khorne only. The character has the Magic Resistance (3) special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -184,7 +184,7 @@
 					<key>Points</key>
 					<real>35</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Instead of striking normally, the character can choose to make a single special Attack. If he does so, and the Attack hits, the hit is resolved at double the character's Strength and has the Multiple Wounds (D3) special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -194,7 +194,7 @@
 					<key>Points</key>
 					<real>30</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character has a Strength 4 Breath Weapon that has the Flaming Attacks special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -204,7 +204,7 @@
 					<key>Points</key>
 					<real>25</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Arcane item. The character adds +1 to all of his channeling attempts and knows one extra spell than normal for his level.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -214,7 +214,7 @@
 					<key>Points</key>
 					<real>20</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character has the Scaly Skin (5+) special rule.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -224,7 +224,7 @@
 					<key>Points</key>
 					<real>15</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Any opponent wishing to strike the character in close combat must first pass a Leadership test (test immediately before the model rolls To Hit). If the test is failed, that model cannot make any close combat attacks that phase. This does not affect Attacks that do not roll To Hit.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -234,7 +234,7 @@
 					<key>Points</key>
 					<real>15</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character has the Poisoned Attacks special rule and a 5+ ward save against Poisoned Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -244,7 +244,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Whenever the character suffers an unsaved Wound in close combat, the model that inflicted that hit must pass an Initiative test or suffer a Strength 4 hit. Wounds inflicted by Acid Ichor count towards the combat result.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -254,7 +254,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character has the Flaming Attacks special rule and a 5+ ward save against Flaming Attacks.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -264,7 +264,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>Roll a D6 for every unsaved Wound inflicted by the character in close combat. For each result of 6 rolled, he immediately regains a single lost Wound.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -274,7 +274,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character re-rolls ward save results of 1.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -284,7 +284,7 @@
 					<key>Points</key>
 					<real>10</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>At the start of every Magic phase, every enemy model in base contct with the character suffers a single Strength 1 hit, with no armor saves allowed.</string>
 				</dict>
 				<dict>
 					<key>Category</key>
@@ -294,7 +294,7 @@
 					<key>Points</key>
 					<real>5</real>
 					<key>Special Rules</key>
-					<string></string>
+					<string>The character has the Fear special rule. However, other models can never use this character's Leadership.</string>
 				</dict>
 			</array>
 		</dict>
